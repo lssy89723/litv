@@ -35,8 +35,15 @@ HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 東森購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-
-
+MM,#genre#
+第一视角720,http://cdn.adultiptv.net/pov.m3u8
+直播720,http://cdn.adultiptv.net/livecams.m3u8
+少妇720,http://cdn.adultiptv.net/milf.m3u8
+俄罗斯720,http://cdn.adultiptv.net/russian.m3u8
+Asian,http://cdn.adultiptv.net/asian.m3u8
+Woman,http://live.redtraffic.net/woman.m3u8
+香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
 音樂,#genre#
 抖音神曲20首,https://vd3.bdstatic.com/mda-kegey3zg2hx7f0t6/sc/mda-kegey3zg2hx7f0t6.mp4
 送给未来的你,https://vd2.bdstatic.com/mda-ma0st3ncw6i2yerr/v1-cae/sc/mda-ma0st3ncw6i2yerr.mp4
