@@ -1,4 +1,4 @@
-news,#genre#
+新聞,#genre#
 中天新聞0,http://tv.redrainl.site:9500/live.m3u8?c=03
 中天新聞1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 東森新聞0,https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
@@ -24,7 +24,6 @@ TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
-
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
@@ -38,7 +37,7 @@ MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 
 
-
+音樂,#genre#
 抖音神曲20首,https://vd3.bdstatic.com/mda-kegey3zg2hx7f0t6/sc/mda-kegey3zg2hx7f0t6.mp4
 送给未来的你,https://vd2.bdstatic.com/mda-ma0st3ncw6i2yerr/v1-cae/sc/mda-ma0st3ncw6i2yerr.mp4
 模特DJ,http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
