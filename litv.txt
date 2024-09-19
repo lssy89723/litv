@@ -35,6 +35,36 @@ HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 東森購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+4GTV,#genre#
+民視,https://4gtv.livednow.us.kg/litv/4gtv-4gtv002
+民視第一台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv003
+民視新聞台,https://4gtv.livednow.us.kg/litv/litv-ftv13
+中視,https://4gtv.livednow.us.kg/litv/4gtv-4gtv040
+中視新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv074
+中天新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv009
+華視,https://4gtv.livednow.us.kg/litv/4gtv-4gtv041
+華視新聞,https://4gtv.livednow.us.kg/litv/4gtv-4gtv052
+寰宇新聞台,https://4gtv.livednow.us.kg/litv/litv-longturn14
+TVBS,https://4gtv.livednow.us.kg/litv/4gtv-4gtv073
+TVBS 新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv072
+台視,https://4gtv.livednow.us.kg/litv/4gtv-4gtv066
+台視新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv051
+博斯運動一台,https://4gtv.livednow.us.kg/litv/litv-longturn07
+博斯運動二台,https://4gtv.livednow.us.kg/litv/litv-longturn08
+博斯無限台,https://4gtv.livednow.us.kg/litv/litv-longturn10
+博斯無限二台,https://4gtv.livednow.us.kg/litv/litv-longturn13
+東森新聞,https://4gtv.livednow.us.kg/litv/4gtv-4gtv152
+東森財經新聞,https://4gtv.livednow.us.kg/litv/4gtv-4gtv153
+非凡新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv010
+亞洲旅遊台,https://4gtv.livednow.us.kg/litv/litv-longturn17
+GINX Esports TV,https://4gtv.livednow.us.kg/litv/4gtv-4gtv053
+TechStorm,https://4gtv.livednow.us.kg/4gtv/181
+時尚運動X,https://4gtv.livednow.us.kg/4gtv/277
+MTV Live HD 音樂頻道,https://4gtv.livednow.us.kg/4gtv/213
+Mezzo Live,https://4gtv.livednow.us.kg/litv/4gtv-4gtv083
+環遊旅行家,https://4gtv.livednow.us.kg/litv/4gtv-4gtv016
+LUXE TV,https://4gtv.livednow.us.kg/4gtv/175
+
 MMTV_ww,#genre#
 第一视角720,http://cdn.adultiptv.net/pov.m3u8
 直播720,http://cdn.adultiptv.net/livecams.m3u8
