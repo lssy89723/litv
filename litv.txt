@@ -35,35 +35,6 @@ HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 東森購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-4GTV,#genre#
-民視,https://4gtv.livednow.us.kg/litv/4gtv-4gtv002
-民視第一台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv003
-民視新聞台,https://4gtv.livednow.us.kg/litv/litv-ftv13
-中視,https://4gtv.livednow.us.kg/litv/4gtv-4gtv040
-中視新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv074
-中天新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv009
-華視,https://4gtv.livednow.us.kg/litv/4gtv-4gtv041
-華視新聞,https://4gtv.livednow.us.kg/litv/4gtv-4gtv052
-寰宇新聞台,https://4gtv.livednow.us.kg/litv/litv-longturn14
-TVBS,https://4gtv.livednow.us.kg/litv/4gtv-4gtv073
-TVBS 新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv072
-台視,https://4gtv.livednow.us.kg/litv/4gtv-4gtv066
-台視新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv051
-博斯運動一台,https://4gtv.livednow.us.kg/litv/litv-longturn07
-博斯運動二台,https://4gtv.livednow.us.kg/litv/litv-longturn08
-博斯無限台,https://4gtv.livednow.us.kg/litv/litv-longturn10
-博斯無限二台,https://4gtv.livednow.us.kg/litv/litv-longturn13
-東森新聞,https://4gtv.livednow.us.kg/litv/4gtv-4gtv152
-東森財經新聞,https://4gtv.livednow.us.kg/litv/4gtv-4gtv153
-非凡新聞台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv010
-亞洲旅遊台,https://4gtv.livednow.us.kg/litv/litv-longturn17
-GINX Esports TV,https://4gtv.livednow.us.kg/litv/4gtv-4gtv053
-TechStorm,https://4gtv.livednow.us.kg/4gtv/181
-時尚運動X,https://4gtv.livednow.us.kg/4gtv/277
-MTV Live HD 音樂頻道,https://4gtv.livednow.us.kg/4gtv/213
-Mezzo Live,https://4gtv.livednow.us.kg/litv/4gtv-4gtv083
-環遊旅行家,https://4gtv.livednow.us.kg/litv/4gtv-4gtv016
-LUXE TV,https://4gtv.livednow.us.kg/4gtv/175
 
 MMTV_ww,#genre#
 第一视角720,http://cdn.adultiptv.net/pov.m3u8
@@ -1674,169 +1645,120 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 24H音乐女团,http://epg.112114.xyz/douyu/3870925
 kpop音乐女团,http://epg.112114.xyz/douyu/329667
 CJTV_ww,#genre#
-蜜室桃脱DYMT002第2期风船地狱,https://t21.cdn2020.com/video/m3u8/2023/04/21/d7c87b3d/index.m3u8
 首次拍摄白嫩正妹欧比,https://t21.cdn2020.com/video/m3u8/2023/04/21/b6f54ba0/index.m3u8
-天美传媒TMG094婊妹觊觎我的大鸡巴,https://t21.cdn2020.com/video/m3u8/2023/04/21/b3763059/index.m3u8
 MPG-0050偷偷操上表哥媳妇-韩棠,https://t21.cdn2020.com/video/m3u8/2023/04/21/8a5e2330/index.m3u8
-精东影业JDBC048阿姨我不想努力了,https://t21.cdn2020.com/video/m3u8/2023/04/21/8a289a53/index.m3u8
-兔子先生TZ-103酒醉姐姐捡回家EP4,https://t21.cdn2020.com/video/m3u8/2023/04/21/87289463/index.m3u8
-铁链捆绑调教,https://t21.cdn2020.com/video/m3u8/2023/04/21/56359486/index.m3u8
 和台版小波多野结衣啪啪啪,https://t21.cdn2020.com/video/m3u8/2023/04/21/3ddc98fd/index.m3u8
-暗黑杨丞琳大战嘻哈歌手,https://t21.cdn2020.com/video/m3u8/2023/04/21/24abf134/index.m3u8
-爱神传媒EMG011守寡大嫂汗我的越线感情,https://t21.cdn2020.com/video/m3u8/2023/04/02/c72aa02e/index.m3u8
-长腿大奶的民宿老板娘,https://t21.cdn2020.com/video/m3u8/2023/04/02/c7269f70/index.m3u8
-新季里的某一天-玩偶姐姐,https://t21.cdn2020.com/video/m3u8/2023/04/02/c13af540/index.m3u8
-BIJN-240 愉悦的旅行狂欢-水原みその,https://t21.cdn2020.com/video/m3u8/2023/04/02/a5b51ead/index.m3u8
-我的金发大奶美国表妹陪我过署假,https://t21.cdn2020.com/video/m3u8/2023/04/02/810b38fa/index.m3u8
-SSIS-631 爱神觉醒-似鳥日菜,https://t21.cdn2020.com/video/m3u8/2023/04/02/76ec953b/index.m3u8
 同父异母的妹妹愿意让哥哥插入,https://t21.cdn2020.com/video/m3u8/2023/04/02/583426b4/index.m3u8
-星空传媒XK8160友情万岁,https://t21.cdn2020.com/video/m3u8/2023/04/02/57c9dba5/index.m3u8
-TYSF-038 家庭代理服务-百永さりな,https://t21.cdn2020.com/video/m3u8/2023/04/02/176dc53b/index.m3u8
-MCY-0167暗黑国王游戏-玥可岚,https://t21.cdn2020.com/video/m3u8/2023/04/02/0b40fe86/index.m3u8
-精东影业JDKR021怒操邻居老婆,https://t21.cdn2020.com/video/m3u8/2023/04/02/0505e834/index.m3u8
-PRED-463 外遇生活-楪カレン,https://t21.cdn2020.com/video/m3u8/2023/03/30/b28497d9/index.m3u8
-SSIS-663 宣布隐退-三上悠亚,https://t21.cdn2020.com/video/m3u8/2023/04/25/1b2adda7/index.m3u8
-ADN-462 意外看到公公自慰-三宫椿,https://t21.cdn2020.com/video/m3u8/2023/04/25/4161fc8e/index.m3u8
-公司新员工被上司安排潜规则-糖糖,https://t21.cdn2020.com/video/m3u8/2023/04/25/7b7d7507/index.m3u8
 后妈婚内出轨儿子激情乱伦-糖糖,https://t21.cdn2020.com/video/m3u8/2023/04/25/7ac2d2f2/index.m3u8
-情侣游戏-玩偶姐姐,https://t21.cdn2020.com/video/m3u8/2023/04/25/a97408db/index.m3u8
-秘书工作失误舍身老总求谅解-七月,https://t21.cdn2020.com/video/m3u8/2023/04/25/3b82ce42/index.m3u8
-强上暂住长腿尤物表妹,https://t21.cdn2020.com/video/m3u8/2023/04/25/649590b2/index.m3u8
-黑丝中介为业绩献身,https://t21.cdn2020.com/video/m3u8/2023/04/25/bb0213c4/index.m3u8
 游戏陪玩体验民国风多样服务-琪琪,https://t21.cdn2020.com/video/m3u8/2023/04/25/fe43e5af/index.m3u8
-天美传媒TMP074爱的心理辅导,https://t21.cdn2020.com/video/m3u8/2023/04/25/9512857a/index.m3u8
-天美传媒TMBC032强上不爱穿内裤的远房表姐,https://t21.cdn2020.com/video/m3u8/2023/04/25/4658efff/index.m3u8
-ADN-459 为了最爱的丈夫守住身体-加藤结衣,https://t21.cdn2020.com/video/m3u8/2023/04/25/299391d5/index.m3u8
 人很美逼又嫩又很会做爱的女大学生,https://z100.cdn2020.com/video/m3u8/2019/12/06/eb50e6f3/index.m3u8
-MCY-0182漂亮看护的肉穴治疗-韩棠,https://t21.cdn2020.com/video/m3u8/2023/04/21/f3a1a754/index.m3u8
-红斯灯影像RS-029初恋之晴道与野英的性爱特辑,https://t21.cdn2020.com/video/m3u8/2023/04/21/f19f3ce6/index.m3u8
-DASS-127 和母亲的造人SEX-森泽佳奈,https://t21.cdn2020.com/video/m3u8/2023/04/21/e9015bb9/index.m3u8
-性视界xsjky061发廊打烊时段的特殊性服务,https://t21.cdn2020.com/video/m3u8/2023/04/21/d9ab9963/index.m3u8
-爱豆传媒ID5277性欲旺盛的小姨子勾引姐夫内射,https://t21.cdn2020.com/video/m3u8/2023/04/21/cee0d481/index.m3u8
 上网课耐不住寂寞叫上男朋友来一发,https://t21.cdn2020.com/video/m3u8/2023/04/21/c1a6cafe/index.m3u8
-美女E奶蝶直接一人挑战9男,https://t21.cdn2020.com/video/m3u8/2023/04/21/ba064138/index.m3u8
-性视界xsjtc10约见骚淫女上司的疼爱,https://t21.cdn2020.com/video/m3u8/2023/04/21/b70aa463/index.m3u8
-随机搭讪情侣与陌生人男友一起3P,https://t21.cdn2020.com/video/m3u8/2023/04/21/b4e8a5db/index.m3u8
 绝对领域LY-018极品兄妹性之初体验,https://t21.cdn2020.com/video/m3u8/2023/04/21/aa299959/index.m3u8
 两男两女的脱衣麻将,https://t21.cdn2020.com/video/m3u8/2023/04/21/a1d6a974/index.m3u8
-丝袜巨乳小白兔,https://t21.cdn2020.com/video/m3u8/2023/04/21/9e5efbd8/index.m3u8
-辣椒原创hpp-0028如何根治淫娃身上的痒,https://t21.cdn2020.com/video/m3u8/2023/04/21/9dd5839a/index.m3u8
-深夜的台北超淫荡的聚会,https://t21.cdn2020.com/video/m3u8/2023/04/21/9d1a1b54/index.m3u8
-看到我的推特想尝试男友以外的鸡鸡,https://t21.cdn2020.com/video/m3u8/2023/04/21/9884e15f/index.m3u8
 果冻传媒91BCM-050父亲去世孝顺儿子大屌安慰妈妈,https://t21.cdn2020.com/video/m3u8/2023/04/21/93472702/index.m3u8
 新人女大学生有点羞涩的首次体验3P,https://t21.cdn2020.com/video/m3u8/2023/04/21/91659bbd/index.m3u8
 19岁美穴新人女体私密大保健初体验,https://t21.cdn2020.com/video/m3u8/2023/04/21/8412f611/index.m3u8
-小姐姐第一次拍片害羞不敢露脸,https://t21.cdn2020.com/video/m3u8/2023/04/21/71d9df13/index.m3u8
-果冻传媒YCM-056美乳试睡员床上猛烈抽插,https://t21.cdn2020.com/video/m3u8/2023/04/21/65fa1dbf/index.m3u8
-巨乳嫦娥大战达尔,https://t21.cdn2020.com/video/m3u8/2023/04/21/5bf06d89/index.m3u8
-IPZZ-023 本该温柔给处男弟弟-明里紬,https://t21.cdn2020.com/video/m3u8/2023/04/21/57f8180e/index.m3u8
-果冻传媒KCM-101忍不住就上了女儿同学,https://t21.cdn2020.com/video/m3u8/2023/04/21/4e042c2d/index.m3u8
 和男朋友吵架后如何快速和好的秘诀,https://t21.cdn2020.com/video/m3u8/2023/04/21/4751a7e9/index.m3u8
-天美传媒TMW160放学后与老师在教室的激情浪操,https://t21.cdn2020.com/video/m3u8/2023/04/21/47369f46/index.m3u8
-爱豆传媒ID5279性感空姐被迫下海援交,https://t21.cdn2020.com/video/m3u8/2023/04/21/3ecef40b/index.m3u8
-挖掘纯情女大生,https://t21.cdn2020.com/video/m3u8/2023/04/21/35bb85ec/index.m3u8
-爱豆传媒ID5276载客顺风车老婆失身被卖人财两空,https://t21.cdn2020.com/video/m3u8/2023/04/21/2d4fe525/index.m3u8
-天美传媒TMP0072诱奸纯情女记者,https://t21.cdn2020.com/video/m3u8/2023/04/21/294a7072/index.m3u8
 星空传媒XKG146合租的闷骚学姐教我什么叫做爱,https://t21.cdn2020.com/video/m3u8/2023/04/21/1683b23f/index.m3u8
-美乳星子第一次和男友以外的人做爱,https://t21.cdn2020.com/video/m3u8/2023/04/21/122f8df1/index.m3u8
 现役20岁天然美乳白虎女大生性欲觉醒,https://t21.cdn2020.com/video/m3u8/2023/04/21/0fa796b9/index.m3u8
-天美传媒TMBC031阿姨一直讲不如吃肉棒,https://t21.cdn2020.com/video/m3u8/2023/04/21/01238cd1/index.m3u8
-MIDV-270 瞒着男友被隔壁的大叔内射-神宫寺奈绪,https://t21.cdn2020.com/video/m3u8/2023/04/19/ef8d8a2c/index.m3u8
-星空传媒XKG135孝子用大屌唤醒植物人母亲,https://t21.cdn2020.com/video/m3u8/2023/04/02/e8200d81/index.m3u8
-果冻传媒91BCM-041性感空姐诱惑亲姐夫,https://t21.cdn2020.com/video/m3u8/2023/04/02/e23466da/index.m3u8
-后入爆插究极蜜臀-西门庆,https://t21.cdn2020.com/video/m3u8/2023/04/02/d885eff9/index.m3u8
-SSIS-664 一个已婚的女人-奥田咲,https://t21.cdn2020.com/video/m3u8/2023/04/02/d713be5e/index.m3u8
-女友因为30万彩礼与别人结婚,https://t21.cdn2020.com/video/m3u8/2023/04/02/d0dfe53a/index.m3u8
-性视界xsjky053富豪霸气买下出租车操爆女乘客,https://t21.cdn2020.com/video/m3u8/2023/04/02/b02e909c/index.m3u8
 PS-028深夜家出少女带回家,https://t21.cdn2020.com/video/m3u8/2023/04/02/ab426671/index.m3u8
 HUNTB-501 长大成人的姐妹在泡泡浴中玩得不亦乐乎,https://t21.cdn2020.com/video/m3u8/2023/04/02/9f24a03b/index.m3u8
-约炮高端气质外围女神-肥尸哥,https://t21.cdn2020.com/video/m3u8/2023/04/02/9a23ce33/index.m3u8
-性视界xsj149水浒传之鲁智深拔屌爆操镇关西,https://t21.cdn2020.com/video/m3u8/2023/04/02/9467332b/index.m3u8
-特别企划淫娃逃走中下集,https://t21.cdn2020.com/video/m3u8/2023/04/02/7a5be4ca/index.m3u8
-MPG-0040强爆性感巨乳老师-玥可岚,https://t21.cdn2020.com/video/m3u8/2023/04/02/766c18e1/index.m3u8
-果冻传媒91KCM-095性感美女被神棍大师骗财又骗色,https://t21.cdn2020.com/video/m3u8/2023/04/02/7304f8d4/index.m3u8
 天美传媒TMG086民宿房东操爆来渡蜜月的新婚人妻,https://t21.cdn2020.com/video/m3u8/2023/04/02/6a6f6430/index.m3u8
 用肉棒叫醒熟睡小姨子,https://t21.cdn2020.com/video/m3u8/2023/04/02/66e0e8c0/index.m3u8
-精东影业JD139世界末日前夕的最后性爱,https://t21.cdn2020.com/video/m3u8/2023/04/02/6392e284/index.m3u8
 蜜桃传媒PME044轮奸淫荡妈妈越操越骚,https://t21.cdn2020.com/video/m3u8/2023/04/02/49e3447c/index.m3u8
 哥哥的肉感金发女儿的诱惑,https://t21.cdn2020.com/video/m3u8/2023/04/02/496973f4/index.m3u8
-TYSF-037 性欲旺盛的妻子-斎藤あみり,https://t21.cdn2020.com/video/m3u8/2023/04/02/4861c446/index.m3u8
-星空传媒XKG134网约少妇酒店痛快淋漓的性交做爱,https://t21.cdn2020.com/video/m3u8/2023/04/02/40f7ea85/index.m3u8
-MD-0277街头猎艳单身欲女-艾熙,https://t21.cdn2020.com/video/m3u8/2023/04/02/2992f8a3/index.m3u8
-VEMA-198 美人女教師-加藤あやの,https://t21.cdn2020.com/video/m3u8/2023/04/02/285811c7/index.m3u8
-星空传媒XK8163极品人妻服务员被老板压在吧台上抽插,https://t21.cdn2020.com/video/m3u8/2023/04/02/1f8cd36a/index.m3u8
-天美传媒TMG0064不省人事的小姐姐被看护操到醒来,https://t21.cdn2020.com/video/m3u8/2023/04/02/1b6ac922/index.m3u8
-星空传媒XK8162禁欲修女被强奸,https://t21.cdn2020.com/video/m3u8/2023/04/02/1754fe39/index.m3u8
-蜜桃传媒PMC408模范校花肉穴求上岸,https://t21.cdn2020.com/video/m3u8/2023/04/02/146f866b/index.m3u8
-星空传媒XK8161引诱表弟朋友的大肉棒插我骚穴,https://t21.cdn2020.com/video/m3u8/2023/04/02/06e14b65/index.m3u8
-精东影业JDBC040到府水电工强奸骚妇,https://t21.cdn2020.com/video/m3u8/2023/04/02/04bf0e3f/index.m3u8
+T精东影业JDBC040到府水电工强奸骚妇,https://t21.cdn2020.com/video/m3u8/2023/04/02/04bf0e3f/index.m3u8
 天美传媒TMBC024女友想要我更多,https://t21.cdn2020.com/video/m3u8/2023/04/02/02897d98/index.m3u8
-在楼道被邻居小哥干的淫水四射,https://t21.cdn2020.com/video/m3u8/2023/03/31/f6aea77a/index.m3u8
-家人睡着后和邻居小哥厕所内潮吹数次,https://t21.cdn2020.com/video/m3u8/2023/03/31/cf2d7b7c/index.m3u8
-QQOG-049干爹的肉便器,https://t21.cdn2020.com/video/m3u8/2023/03/31/7a882ba4/index.m3u8
-爱豆传媒ID5246血衣天使之性爱复仇-姚茜,https://t21.cdn2020.com/video/m3u8/2023/03/31/27ccdf8b/index.m3u8
-PRED-459 妻子和我已经厌倦了对方-ひなたまりん,https://t21.cdn2020.com/video/m3u8/2023/03/30/7726f28e/index.m3u8
-FSOG-093街头搭讪骚货一枚,https://t21.cdn2020.com/video/m3u8/2023/04/25/98b6144f/index.m3u8
-酒店迷奸醉酒大学生肛门被灌入不明液体,https://t21.cdn2020.com/video/m3u8/2023/04/25/b473ac27/index.m3u8
-极品闷骚小姨子被亲姐夫强上爆操到痉挛高潮不断,https://t21.cdn2020.com/video/m3u8/2023/04/25/c8f263fb/index.m3u8
-QDOG-016外卖小女仆,https://t21.cdn2020.com/video/m3u8/2023/04/25/105f0cdf/index.m3u8
-性感机车学姐无套抽插粉嫩白虎穴-cola酱,https://t21.cdn2020.com/video/m3u8/2023/04/25/4ffafc5c/index.m3u8
-ADN-461 拿着备用钥匙和人妻沉溺SEX-希岛爱理,https://t21.cdn2020.com/video/m3u8/2023/04/25/f28d4ab0/index.m3u8
-女大学生兼职家教辅导性教学,https://t21.cdn2020.com/video/m3u8/2023/04/25/8018f21f/index.m3u8
-丈夫出差妻子出轨同事-嘉琪,https://t21.cdn2020.com/video/m3u8/2023/04/25/69944863/index.m3u8
-酒后强上我的淫荡妹妹-花花,https://t21.cdn2020.com/video/m3u8/2023/04/25/ea194b37/index.m3u8
-户外女主播丛林探险-糖糖,https://t21.cdn2020.com/video/m3u8/2023/04/25/5bd63f2d/index.m3u8
-妻子解救老公被律师强干,https://t21.cdn2020.com/video/m3u8/2023/04/25/e91891de/index.m3u8
 父亲帮女儿克服对性的恐惧,https://t21.cdn2020.com/video/m3u8/2023/04/25/10afa643/index.m3u8
-高利贷欠款肉偿延期-安娜,https://t21.cdn2020.com/video/m3u8/2023/04/25/b346e1c1/index.m3u8
-粉嫩美臀少女与榜一大哥的浴缸之战,https://t21.cdn2020.com/video/m3u8/2023/04/25/e2a7649c/index.m3u8
-泰国巨乳人妻诱惑乳交榨精,https://t21.cdn2020.com/video/m3u8/2023/04/25/ebb15157/index.m3u8
-人妻销售为最后一单业绩献身上阵,https://t21.cdn2020.com/video/m3u8/2023/04/25/68dee191/index.m3u8
-美女被黑祖宗大肉棒舔逼,https://t21.cdn2020.com/video/m3u8/2023/04/25/48dde830/index.m3u8
-奶茶巨乳妹妹的白虎淫穴,https://t21.cdn2020.com/video/m3u8/2023/04/25/e2143a5a/index.m3u8
-美女房客惨遭变态房东裸照威胁,https://t21.cdn2020.com/video/m3u8/2023/04/25/ba1e5e28/index.m3u8
-仿真机器人的正确使用方法,https://t21.cdn2020.com/video/m3u8/2023/04/25/cd87414e/index.m3u8
-妹妹帮哥哥肉偿还债,https://t21.cdn2020.com/video/m3u8/2023/04/25/898ee9e2/index.m3u8
-MPG-0052替父亲操操看新女友,https://t21.cdn2020.com/video/m3u8/2023/04/25/927e3510/index.m3u8
 精东影业JDBC050OL舅妈让我精液不断射出,https://t21.cdn2020.com/video/m3u8/2023/04/25/22e781a1/index.m3u8
-天美传媒TMG096逃学的女学生被班主任处罚,https://t21.cdn2020.com/video/m3u8/2023/04/25/09237c54/index.m3u8
-果冻传媒91KCM-112淫荡女警为钱挑战出演色播,https://t21.cdn2020.com/video/m3u8/2023/04/25/b4b50bd2/index.m3u8
-蜜桃传媒PME056大胸荡妇色诱搬运工,https://t21.cdn2020.com/video/m3u8/2023/04/25/02b8426a/index.m3u8
-蜜桃传媒PMC420骚穴银行OL专吃大屌户,https://t21.cdn2020.com/video/m3u8/2023/04/25/e22a995b/index.m3u8
-SDDE-692 催淫洗脑-岩泽香代 萌波铃,https://t21.cdn2020.com/video/m3u8/2023/04/25/d4d89919/index.m3u8
 「推车哥探花」窈窕软妹酥胸乱跳 极品身材前凸后翘,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/lg/36/43/id/dbd5aa9ed32246efb3ac01b1455b335f.m3u8?
 「推车哥探花」清纯小妹矫嗔绝顶 老汉推车横冲直撞,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/2l/tb/7j/hs/81cf27424e764b8aa117e39b38b61795.m3u8?
 「老司机探花」长腿学生娇羞不已 吸舔取精爱不释手,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/n4/rf/lp/e2/7087f6a7dea2411eaeec0b2db6ed2a87.m3u8?
 「推车哥探花」十九年华如花似玉 细嫩花径淫战大屌,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/wi/bx/er/sc/1c36a41235dc42a38e7196bf42741665.m3u8?
 「推车哥探花」银铃少女娇喘不停 青春肉体紧致丝滑,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/a7/07/bp/tm/5f16505b988c42bebce748911fdc4dfd.m3u8?
-「老司机探花」妩媚人妻风韵犹存 肤白腿长初次兼职,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/de/3b/54/rk/59ec51ac937847b4bdf1b6f5434083e7.m3u8?
 「推车哥探花」含鲍待放吹弹可破 娇羞少女眉眼怀春,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/4t/v5/4a/1b/4202a0d3eded460fa7f63eff9b8ba79c.m3u8?
 「老牛探花」巧舌如骚穴意乱情迷 湿滑少女浪荡发情,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/e0/t7/6y/xc/fdea107def0d40038c059ab30f5812e9.m3u8?
-「老牛探花」红唇少女浴火难耐 紧致花径吞茎不停,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/71/yy/se/w2/f5fd2cbb85e84e55bdc1495471df8f24.m3u8?
-「老牛探花」长腿美臀完美炮架 邻家女孩呜咽不止,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/zf/f8/mx/hm/6e4898e298ee417cb6dea6d80d5660bf.m3u8?
 「老司机探花」冰山美人热穴喷涌 娇俏黑丝秀色可餐,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/et/kp/3e/rt/ef6025810a8c4a5292dc8d5f37864654.m3u8?
 「大屌探花」麻豆大屌长枪出洞 丰满少妇久旱甘露,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/8c/3b/u1/md/a5afd10dd0b945d2bc8ad4e69fca9684.m3u8?
 「老司机探花」修长美腿精致玉穴 怀春少女翘臀以待,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/92/ll/px/gd/4e87bac4400a4224b23401acbd5333bc.m3u8?
 「老牛探花」豪乳女孩水波荡漾 蜂腰玉腿极乐享受,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/sd/l2/63/as/bef0c2dd59bb4c88a1c816a817f8a2da.m3u8?
-「老司机探花」翘臀长腿情趣诱惑 苗条骚女腰肢乱颠,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/me/t0/dw/jn/5d7210353dc0423181c93f9759f2aabf.m3u8?
-「老司机探花」痴男荡妇白日宣淫 黑丝长腿无套内射,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/fy/5q/in/5w/8ccac0abb75149f4a858ac740a8f345b.m3u8?
-「推车哥探花」花言巧语勾引挑逗 花季少女惨遭无套,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/2d/me/7b/eq/e4a277a77f1249c79adb84b6badf6ea5.m3u8?
-MSD-135/欲求不满风韵后妈,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/8j/mh/ul/05/f85b7d6d22444d29a8de6787bcb62818.m3u8?
+「MSD-135/欲求不满风韵后妈,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/8j/mh/ul/05/f85b7d6d22444d29a8de6787bcb62818.m3u8?
 MSD-132/黑丝浪姐遭精液洗面,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/zm/ap/l1/5i/4625b2c714b441b0a8ef5a7973df5f9c.m3u8?
 MSD-131/清纯少女嫩逼飘香,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/k6/nt/2y/yj/f4d6fe2e1adf4819a8d29e39679d0328.m3u8?
 MSD-129/越南女房东仲卖房送逼,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/j0/7s/4p/vv/60ced8a0e5c24573a97d339e9efb38ea.m3u8?
-MSD-128/美足痴女的阳痿疗程,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/th/l5/u1/aq/345fb9e3c56445e38e019cca7bfb7878.m3u8?
-MSD-127/黑丝少妇吞白精,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/qp/oo/jy/ir/d9f2e4a24e894f498310b8d9e44118f3.m3u8?
-MSD-126/痴女主播吞精饮尿,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/h3/c4/2v/sv/a6d11f81d30a41e7a966cb10b04c8fc9.m3u8?
 MSD-125/姐弟之间不伦之恋,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/4i/w4/zv/dh/6d2ee84e829447869d25d54d5287187d.m3u8?
 MSD-124/电竞陪玩少女的秘密,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/i5/rt/87/w4/e28e28664294478788ca9617eda19c81.m3u8?
-MSD-123/黑丝御姐温情榨精,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/zc/ox/s3/jk/cda3420e41394ada8738fb478e3d702b.m3u8?
-MSD-122/美乳白虎高潮失禁,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/fn/vi/fn/ox/3221872b6f424be5a2cef6a789ffec94.m3u8?
 MSD-119/你老婆操起来真香,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/c7/fw/q9/si/ac4ab7c6392149c3a3f9294407f3d542.m3u8?
-MSD-117/狼叔迷奸黑丝侄女,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/40/ku/6i/yo/fa7633f87abf4638b048ec469d4188c3.m3u8?
-MSD-116/黑丝房客纯爱艳遇,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/bo/26/m5/ue/0315cfd039da4791a686892b4ada8255.m3u8?
 MSD-074/粉逼美乳淫荡献情,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/qu/3t/o2/f0/b743657ec67b4f9aae1f281daa453f90.m3u8?
 MSD-066/父亲花钱买下的女人,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/dt/z1/iw/zw/2ac9602ba6ad43afbe82fa4d9e04e691.m3u8?
+18岁小嫩妹辍学做外围-田伯光,https://t21.cdn2020.com/video/m3u8/2023/04/13/d7cb73d8/index.m3u8
+3000约操18岁大一新生-八戒,https://t21.cdn2020.com/video/m3u8/2023/03/22/8b0e62d5/index.m3u8
+BLX-0037闺蜜蹭饭也蹭炮-舒可芯,https://t21.cdn2020.com/video/m3u8/2023/02/07/a10b630b/index.m3u8
+BLX-0039替岳父止痒的好媳妇-韩棠,https://t21.cdn2020.com/video/m3u8/2023/02/15/61b152a3/index.m3u8
+BLX-0045青梅竹马感情升温-艾秋,https://t21.cdn2020.com/video/m3u8/2023/03/10/2d11caeb/index.m3u8
+cola的毕业洗礼,https://t21.cdn2020.com/video/m3u8/2023/01/31/de3c09bd/index.m3u8
+FSOG-064网袜白虎小学妹,https://t21.cdn2020.com/video/m3u8/2023/03/03/b233b478/index.m3u8
+FSOG-065零三年的小白虎-唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/03/42c5f64b/index.m3u8
+FSOG-067JK学妹的毕业洗礼,https://t21.cdn2020.com/video/m3u8/2023/03/06/a800ea05/index.m3u8
+MM-074洄澜看海之旅-吴梦梦,https://t21.cdn2020.com/video/m3u8/2023/03/09/167d8603/index.m3u8
+MPG-0037两兄弟轮操失恋小姑-徐蕾,https://t21.cdn2020.com/video/m3u8/2023/03/27/d4a75e10/index.m3u8
+力调教白丝嫩萝莉-小二先生,https://t21.cdn2020.com/video/m3u8/2023/01/26/6255511e/index.m3u8
+变态巴士之美容师小波多野结衣,https://t21.cdn2020.com/video/m3u8/2023/03/16/210ace03/index.m3u8
+变态瑜伽学生紧身裤外显阴沟,https://t21.cdn2020.com/video/m3u8/2023/02/21/19e65f80/index.m3u8
+春节贴完对联就是输出洛丽塔妹妹的时间,https://t21.cdn2020.com/video/m3u8/2023/01/31/9417e842/index.m3u8
+大二学姐被灌醉猥亵,https://t21.cdn2020.com/video/m3u8/2023/02/01/df1278f9/index.m3u8
+大年三十操小妈-舒舒,https://t21.cdn2020.com/video/m3u8/2023/01/28/e33a4745/index.m3u8
+海岛特辑-樱花小猫,https://t21.cdn2020.com/video/m3u8/2023/02/15/4a6d6f4b/index.m3u8
+精东影业JDYL023叫鸡叫到亲姐姐,https://t21.cdn2020.com/video/m3u8/2023/02/11/d781fd63/index.m3u8
+聚会后的强奸同事的嫩穴被我侵犯,https://t21.cdn2020.com/video/m3u8/2023/03/27/ddc2b4dd/index.m3u8
+泰国年轻小情侣药物助兴,https://t21.cdn2020.com/video/m3u8/2023/02/07/bb4e5403/index.m3u8
+天美传媒TMP0084嫂子的诱惑,https://t21.cdn2020.com/video/m3u8/2023/03/27/36a3c2e2/index.m3u8
+天美传媒TMW162狂飙之黑道夫妇恋爱之路,https://t21.cdn2020.com/video/m3u8/2023/04/11/8b8e83f0/index.m3u8
+
+国产6传媒147,https://w9n76.cdnedge.live/file/avple-images/hls/628ab9d6a1c1cd0b44683f02/playlist.m3u8
+国产6传媒152,https://w9n76.cdnedge.live/file/avple-images/hls/628ab384a1c1cd0b44683ef7/playlist.m3u8
+国产6传媒153,https://q2cyl7.cdnedge.live/file/avple-images/hls/628ab167a1c1cd0b44683ef6/playlist.m3u8
+国产6传媒163,https://e2fa6.cdnedge.live/file/avple-images/hls/62879adcd28d4f134ac6904f/playlist.m3u8
+国产4传媒22,https://10j99.cdnedge.live/file/avple-images/hls/6254064a3d5bac30b2603dbe/playlist.m3u8
+国产4传媒26,https://e2fa6.cdnedge.live/file/avple-images/hls/6252c0bf6b426e5b63529743/playlist.m3u8
+国产4传媒29,https://8bb88.cdnedge.live/file/avple-images/hls/6251973db9fdae53fd999576/playlist.m3u8
+国产4传媒30,https://u89ey.cdnedge.live/file/avple-images/hls/6251a557b9fdae53fd99957d/playlist.m3u8
+国产2传媒25,https://u89ey.cdnedge.live/file/avple-images/hls/61ff169699eb625f8e37e0a7/playlist.m3u8
+国产2传媒33,https://w9n76.cdnedge.live/file/avple-images/hls/61fd8ef3c68d7d11e015cd8a/playlist.m3u8
+国产2传媒32,https://8bb88.cdnedge.live/file/avple-images/hls/61fd8f6ac68d7d11e015cd8c/playlist.m3u8
+国产2传媒38,https://u89ey.cdnedge.live/file/avple-images/hls/61fb8cf611eff304d6e1379f/playlist.m3u8
+国产12传媒224,https://8bb88.cdnedge.live/file/avple-images/hls/617c4da5f0db60036839e946/playlist.m3u8
+国产12传媒227,https://e2fa6.cdnedge.live/file/avple-images/hls/617a051e933dae5425d49b90/playlist.m3u8
+国产12传媒235,https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8
+国产11传媒04,https://w9n76.cdnedge.live/file/avple-images/hls/6171a855f8003d17dfd1a736/playlist.m3u8
+国产11传媒05,https://8bb88.cdnedge.live/file/avple-images/hls/6171a7ddf8003d17dfd1a735/playlist.m3u8
+国产11传媒06,https://d862cp.cdnedge.live/file/avple-images/hls/61703f29bc5c965ae4f56248/playlist.m3u8
+
+总统何苗01,https://d862cp.cdnedge.live/file/avple-images/hls/61051cd6c778956038fdd09e/playlist.m3u8
+总统何苗02,https://8bb88.cdnedge.live/file/avple-images/hls/60e6f101295d6915521367be/playlist.m3u8
+总统何苗03,https://e2fa6.cdnedge.live/file/avple-images/hls/60ddd96d41b32117d66a0b90/playlist.m3u8
+总统何苗06,https://10j99.cdnedge.live/file/avple-images/hls/60ba17adecb87a1b5b8fa845/playlist.m3u8
+总统何苗11,https://10j99.cdnedge.live/file/avple-images/hls/6070dc7890160a18a06bac77/video_1.m3u8
+总统夜夜02,https://d862cp.cdnedge.live/file/avple-images/hls/605d78241eac1e0435da7777/video_1.m3u8
+总统夜夜07,https://8bb88.cdnedge.live/file/avple-images/hls/61630fed114a6a29b065cdec/playlist.m3u8
+总统夜夜08,https://d862cp.cdnedge.live/file/avple-images/hls/618626d126bdd144b598cbd8/playlist.m3u8
+总统夜夜09,https://e2fa6.cdnedge.live/file/avple-images/hls/61b46e79f91a1b0eecb6e531/playlist.m3u8
+总统夜夜13,https://e2fa6.cdnedge.live/file/avple-images/hls/621e146a0b43873ee3783be9/playlist.m3u8
+总统夜夜15,https://e2fa6.cdnedge.live/file/avple-images/hls/626768d66fc93733f74fd868/playlist.m3u8
+总统沈芯01,https://je40u.cdnedge.live/file/avple-images/hls/605d78241eac1e0435da7859/video_1.m3u8
+总统沈芯02,https://q2cyl7.cdnedge.live/file/avple-images/hls/605d78241eac1e0435da7847/playlist.m3u8
+总统孟若1,https://w9n76.cdnedge.live/file/avple-images/hls/60b506e26901331b989b0062/playlist.m3u8
+总统孟若2,https://e2fa6.cdnedge.live/file/avple-images/hls/60f7f6bed45eb930dbef9642/playlist.m3u8
+总统孟若3,https://1xp60.cdnedge.live/file/avple-images/hls/608c40f7dec53e18bd7d4b0f/playlist.m3u8
+总统孟若4,https://je40u.cdnedge.live/file/avple-images/hls/61044393c778956038fdd092/playlist.m3u8
+总统孟若5,https://zo392.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
+总统孟若6,https://10j99.cdnedge.live/file/avple-images/hls/61490599aa66a611331a8a68/playlist.m3u8
+总统孟若8,https://e2fa6.cdnedge.live/file/avple-images/hls/619c01d1f0d6ad68f95a08a8/playlist.m3u8
+总统孟若9,https://zo392.cdnedge.live/file/avple-images/hls/61accd32779a324ef83699a0/playlist.m3u8
+总统孟若1,https://je40u.cdnedge.live/file/avple-images/hls/61c6a612668fd93b4250a31c/playlist.m3u8
+总统孟若2,https://d862cp.cdnedge.live/file/avple-images/hls/61d0c2bd8ec5397ce0e2cde4/playlist.m3u8
+总统孟若3,https://10j99.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
+
 CCTV,#genre#
 CCTV1,http://dev.grayidea.com:4022/udp/239.3.1.129:8008
 CCTV1,http://125.80.153.209:8003/udp/235.254.198.51:1480
@@ -1902,252 +1824,5 @@ CCTV13,http://dev.grayidea.com:4022/udp/239.3.1.124:8128
 CCTV13,http://119.98.175.25:85/udp/239.254.96.161:9040
 
 
-福利,#genre#
-屠夫,https://v6.jindangao.com/hj/hj2/hj24/38/hls/index.m3u8
-屠夫,https://v6.jindangao.com/hj/hj2/hj24/38/hls/index.m3u8
-燕妇转世2,https://v5.jindangao.com/fff/ff9/24/hls/index.m3u8
-被捉奸的妻子朋友,https://hnzy.bfvvs.com/play/YernJW6e/index.m3u8
-风流才子俏佳人,https://v5.jindangao.com/pp/p11/11/hls/index.m3u8
-我为卿狂,https://v5.jindangao.com/fff/ff7/21/hls/index.m3u8
-好色妻降臨-古瀬玲,https://z100.cdn2020.com/video/m3u8/2020/07/10/e464cce5/index.m3u8
-極上好色,https://z100.cdn2020.com/video/m3u8/2020/07/06/36a05675/index.m3u8
-西游记之八戒招亲,https://v5.jindangao.com/jj/j10/22/hls/index.m3u8
-18+唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/07/7a58b113/index.m3u8
 
-情人别为我哭泣,https://lsbbf1.com/20230919/DacOtLAk/index.m3u8
-红辣椒,https://lsbbf1.com/20230920/EgiMd4JC/index.m3u8
-欲望之音,https://lsbbf1.com/20230920/CEQg2ANp/index.m3u8
-偷窃狂人,https://jkunbf.com/20231103/glvIllEJ/index.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-七仙女思春,https://v6.jindangao.com/bb/b1/17/500kb/hls/index.m3u8
-田螺艳鬼,https://v5.jindangao.com/oo/o7/5/hls/index.m3u8
-中间申太长,https://v5.jindangao.com/hh/h10/34/hls/index.m3u8
-小姐姐拍片,https://v5.jindangao.com/kk/k9/16/hls/index.m3u8
-浪女迷魂记,https://v5.jindangao.com/ff/f7/46/hls/index.m3u8
-风骚女郎,https://vip6.3sybf.com/20210827/rPnbGMQy/index.m3u8
-新婚快乐夜,https://hnzy.bfvvs.com/play/DbDRvlYe/index.m3u8
-
-
-十八经典级5,#genre#
-七仙女思春,https://ckzy1com.com/20230623/EExWo3QZ/index.m3u8
-白马王子,https://ckzy1com.com/20230412/ZdjCZhez/index.m3u8
-大家爽,https://ckzy1com.com/20230422/E6S0A3qy/index.m3u8
-温女奇招,https://ckzy1com.com/20230423/FUBeELSr/index.m3u8
-丫丫秘书,https://ckzy1com.com/20230407/njHBWXYd/index.m3u8
-丁度,https://ckzy1com.com/20221218/NhlIE4ww/index.m3u8
-淑女性冒险,https://ckzy1com.com/20221026/yxFS8duC/index.m3u8
-新婚快乐夜,https://hnzy.bfvvs.com/play/DbDRvlYe/index.m3u8
-满园春色752,https://ckzy1com.com/20230213/VkFliFY2/index.m3u8
-肉林酒池753,https://ckzy1com.com/20230220/vPTCaOAZ/index.m3u8
-恋女知情754,https://ckzy1com.com/20230220/mQGSV3nu/index.m3u8
-粉红大白755,https://ckzy1com.com/20230219/SksTRzNp/index.m3u8
-半爱半玩757,https://ckzy1com.com/20230413/fjmLgN3j/index.m3u8
-变色的青春759,https://ckzy1com.com/20230416/Tf8UUlgK/index.m3u8
-午夜狂情,https://ckzy1com.com/20230213/30w4s2Xx/index.m3u8
-
-
-
-十八国产媒2,#genre#
-国产6传媒133,https://u89ey.cdnedge.live/file/avple-images/hls/628f6925531f007e5ba30af3/playlist.m3u8
-国产6传媒136,https://d862cp.cdnedge.live/file/avple-images/hls/628cc65ede01360ccb2f8e9d/playlist.m3u8
-国产6传媒141,https://8bb88.cdnedge.live/file/avple-images/hls/628b61a7478a7e4e23bce25a/playlist.m3u8
-国产6传媒137,https://je40u.cdnedge.live/file/avple-images/hls/628cc5adde01360ccb2f8e9c/playlist.m3u8
-国产6传媒145,https://u89ey.cdnedge.live/file/avple-images/hls/628b5ed8478a7e4e23bce257/playlist.m3u8
-国产6传媒147,https://w9n76.cdnedge.live/file/avple-images/hls/628ab9d6a1c1cd0b44683f02/playlist.m3u8
-国产6传媒152,https://w9n76.cdnedge.live/file/avple-images/hls/628ab384a1c1cd0b44683ef7/playlist.m3u8
-国产6传媒153,https://q2cyl7.cdnedge.live/file/avple-images/hls/628ab167a1c1cd0b44683ef6/playlist.m3u8
-国产6传媒163,https://e2fa6.cdnedge.live/file/avple-images/hls/62879adcd28d4f134ac6904f/playlist.m3u8
-国产4传媒23,https://zo392.cdnedge.live/file/avple-images/hls/6252c0bf6b426e5b63529741/playlist.m3u8
-国产4传媒24,https://zo392.cdnedge.live/file/avple-images/hls/6252c0c06b426e5b63529746/playlist.m3u8
-国产4传媒22,https://10j99.cdnedge.live/file/avple-images/hls/6254064a3d5bac30b2603dbe/playlist.m3u8
-国产4传媒26,https://e2fa6.cdnedge.live/file/avple-images/hls/6252c0bf6b426e5b63529743/playlist.m3u8
-国产4传媒29,https://8bb88.cdnedge.live/file/avple-images/hls/6251973db9fdae53fd999576/playlist.m3u8
-国产4传媒30,https://u89ey.cdnedge.live/file/avple-images/hls/6251a557b9fdae53fd99957d/playlist.m3u8
-产4传媒47,https://1xp60.cdnedge.live/file/avple-images/hls/6250336ef06f665330ec2bda/playlist.m3u8
-国产4传媒52,https://u89ey.cdnedge.live/file/avple-images/hls/624d7cc08d83843ab3a678c7/playlist.m3u8
-国产4传媒51,https://8bb88.cdnedge.live/file/avple-images/hls/624eea246d742407ed435442/playlist.m3u8
-国产4传媒53,https://e2fa6.cdnedge.live/file/avple-images/hls/624d663b8d83843ab3a678c5/playlist.m3u8
-国产4传媒56,https://d862cp.cdnedge.live/file/avple-images/hls/624bef3d528c292827c459d7/playlist.m3u8
-国产4传媒58,https://10j99.cdnedge.live/file/avple-images/hls/624bedd5528c292827c459d5/playlist.m3u8
-国产4传媒59,https://8bb88.cdnedge.live/file/avple-images/hls/624bea18528c292827c459d4/playlist.m3u8
-国产4传媒57,https://je40u.cdnedge.live/file/avple-images/hls/624beec5528c292827c459d6/playlist.m3u8
-国产2传媒25,https://u89ey.cdnedge.live/file/avple-images/hls/61ff169699eb625f8e37e0a7/playlist.m3u8
-国产2传媒33,https://w9n76.cdnedge.live/file/avple-images/hls/61fd8ef3c68d7d11e015cd8a/playlist.m3u8
-国产2传媒32,https://8bb88.cdnedge.live/file/avple-images/hls/61fd8f6ac68d7d11e015cd8c/playlist.m3u8
-国产2传媒38,https://u89ey.cdnedge.live/file/avple-images/hls/61fb8cf611eff304d6e1379f/playlist.m3u8
-国产2传媒39,https://e2fa6.cdnedge.live/file/avple-images/hls/61fb8b8f11eff304d6e1379d/playlist.m3u8
-国产2传媒40,https://q2cyl7.cdnedge.live/file/avple-images/hls/61fb8c0611eff304d6e1379e/playlist.m3u8
-国产2传媒42,https://q2cyl7.cdnedge.live/file/avple-images/hls/61fb8a9e11eff304d6e1379a/playlist.m3u8
-产2传媒60,https://u89ey.cdnedge.live/file/avple-images/hls/61f9a6a29053272327957ad6/playlist.m3u8
-国产2传媒64,https://e2fa6.cdnedge.live/file/avple-images/hls/61f703ded7d05308d12ef121/playlist.m3u8
-国产2传媒68,https://e2fa6.cdnedge.live/file/avple-images/hls/61f701fed7d05308d12ef11c/playlist.m3u8
-国产12传媒48,https://zo392.cdnedge.live/file/avple-images/hls/61accd37779a324ef83699a7/playlist.m3u8
-国产12传媒53,https://q2cyl7.cdnedge.live/file/avple-images/hls/61a940490791fe25b65cea17/playlist.m3u8
-国产12传媒61,https://je40u.cdnedge.live/file/avple-images/hls/61a67d2da04cdb55de21fe93/playlist.m3u8
-国产12传媒217,https://je40u.cdnedge.live/file/avple-images/hls/617c50edf0db60036839e94d/playlist.m3u8
-国产12传媒219,https://q2cyl7.cdnedge.live/file/avple-images/hls/617c4ffdf0db60036839e94b/playlist.m3u8
-国产12传媒222,https://8bb88.cdnedge.live/file/avple-images/hls/617c4e59f0db60036839e948/playlist.m3u8
-国产12传媒224,https://8bb88.cdnedge.live/file/avple-images/hls/617c4da5f0db60036839e946/playlist.m3u8
-国产12传媒227,https://e2fa6.cdnedge.live/file/avple-images/hls/617a051e933dae5425d49b90/playlist.m3u8
-国产12传媒235,https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8
-国产11传媒02,https://1xp60.cdnedge.live/file/avple-images/hls/6171a909f8003d17dfd1a738/playlist.m3u8
-国产11传媒03,https://je40u.cdnedge.live/file/avple-images/hls/6171a891f8003d17dfd1a737/playlist.m3u8
-国产11传媒04,https://w9n76.cdnedge.live/file/avple-images/hls/6171a855f8003d17dfd1a736/playlist.m3u8
-国产11传媒05,https://8bb88.cdnedge.live/file/avple-images/hls/6171a7ddf8003d17dfd1a735/playlist.m3u8
-国产11传媒06,https://d862cp.cdnedge.live/file/avple-images/hls/61703f29bc5c965ae4f56248/playlist.m3u8
-
-N-057 为了老公和老头出轨-石原莉奈,https://t23a.cdn2020.com/video/m3u8/2024/03/06/ce1465b7/index.m3u8
-MIDV-611 停电门锁监禁-宮下玲奈,https://t23a.cdn2020.com/video/m3u8/2024/03/06/de300476/index.m3u8
-PPPE-195 不穿內衣在家裡走來走去-月野霞,https://t23a.cdn2020.com/video/m3u8/2024/03/06/fb46e5f5/index.m3u8
-YOCH-008 私人調教偷拍-真弓あずさ,https://t23a.cdn2020.com/video/m3u8/2024/03/06/68a79fef/index.m3u
-8PRED-546 我一直想操你-山岸逢花,https://t23a.cdn2020.com/video/m3u8/2024/03/07/26b789bc/index.m3u8
-SAME-091 美巨乳代課女教師被侵犯連插高潮上癮,https://t23a.cdn2020.com/video/m3u8/2024/03/07/6bd421e3/index.m3u8
-JUQ-581 學生時期對我性騷擾的老師-廣瀨百合,https://t23a.cdn2020.com/video/m3u8/2024/03/07/0efb2c34/index.m3u8
-VOD-027 乌克兰混血人妻-久我里依紗,https://t23a.cdn2020.com/video/m3u8/2024/03/07/e38785c0/index.m3u8
-MIDE-932 约会的过程中-神宫寺奈绪,https://t23a.cdn2020.com/video/m3u8/2024/03/07/0037bf73/index.m3u8
-PPPE-193 瞧不起我的巨乳女-爱宝玲,https://t23a.cdn2020.com/video/m3u8/2024/03/07/ee905283/index.m3u8
-PRED-555 高貴的漂亮姐姐-筧梓,https://t23a.cdn2020.com/video/m3u8/2024/03/07/849ad2f1/index.m3u8
-MVSD-589 被擁有戀母屁的大叔-響乃詩,https://t23a.cdn2020.com/video/m3u8/2024/03/07/f5897a77/index.m3u8
-FSDSS-749 多次淫亂高潮大絶頂-臼井理佳,https://t23a.cdn2020.com/video/m3u8/2024/03/07/937b5936/index.m3u8
-DLDSS-258 水川润为你提供手淫支持,https://t23a.cdn2020.com/video/m3u8/2024/03/07/b946c54e/index.m3u8
-HMN-525 一直勃起的女上司-七瀬アリス,https://t23a.cdn2020.com/video/m3u8/2024/03/07/feed3419/index.m3u8
-START-006 被喜歡宅男的辣妹-神木麗,https://t23a.cdn2020.com/video/m3u8/2024/03/07/2d7d6264/index.m3u8
-hbad-447 不穿胸罩的巨乳美女家教老师-吉川あいみ,https://t23a.cdn2020.com/video/m3u8/2024/03/03/677b29cd/index.m3u8
-ssni-799 女朋友不在家的三天-安齋らら,https://t23a.cdn2020.com/video/m3u8/2024/03/03/c84201a9/index.m3u8
-jul-243 Madonna専属1周年記念作品,https://t23a.cdn2020.com/video/m3u8/2024/03/03/798e3741/index.m3u8
-hodv-21326 依靠和中年大叔援交-瀬名きらり,https://t23a.cdn2020.com/video/m3u8/2024/03/03/9cedd828/index.m3u8HEYZO-0524,https://t23a.cdn2020.com/video/m3u8/2024/03/03/35b3973f/index.m3u8
-pgd-853 为了拯救班里的废材学生们-波多野結衣,https://t23a.cdn2020.com/video/m3u8/2024/03/03/687c2f14/index.m3u8
-atid-430 棒球部女经理人-小泉ひなた,https://t23a.cdn2020.com/video/m3u8/2024/03/03/1b807abe/index.m3u8
-nafz-001 为了老公坚贞的妻子-君島みお,https://t23a.cdn2020.com/video/m3u8/2024/03/03/ebfe36e8/index.m3u8
-adn-249 在老公的面前被侵犯内射-結城のの,https://t23a.cdn2020.com/video/m3u8/2024/03/03/f0f326b5/index.m3u8
-apns-172 巨乳表姐妹强制换妻,https://t23a.cdn2020.com/video/m3u8/2024/03/03/6d2c805c/index.m3u8
-iptd-991 为了营救父亲陷入圈套-前田かおり,https://t23a.cdn2020.com/video/m3u8/2024/03/03/f392f366/index.m3u8
-vec-269 老妈的美女朋友-朝桐光,https://t23a.cdn2020.com/video/m3u8/2024/03/03/70a812c3/index.m3u8
-atid-426 订婚后遇到乡下前男友的人妻-夏目彩春,https://t23a.cdn2020.com/video/m3u8/2024/03/03/b33dd4ec/index.m3u8
-fsdss-046 要引退的女神奶葵,https://t23a.cdn2020.com/video/m3u8/2024/03/03/067bdbb2/index.m3u8fc2ppv-437689,https://t23a.cdn2020.com/video/m3u8/2024/03/03/bb6a3a91/index.m3u8
-ssni-795 潮吹小天后-坂道みる,https://t23a.cdn2020.com/video/m3u8/2024/03/03/75a6a384/index.m3u8
-dv-1302 落入圈套被轮奸的痴汉调查官-麻美ゆま,https://t23a.cdn2020.com/video/m3u8/2024/03/03/d9681281/index.m3u8
-hnd-159 强行强制中出痴女姐姐-千乃あずみ,https://t23a.cdn2020.com/video/m3u8/2024/03/03/4f82cd92/index.m3u8
-PRED-243 在老公不在的七天内-深田えいみ,https://t23a.cdn2020.com/video/m3u8/2024/03/03/27092548/index.m3u8
-silk-113 女性向AV之波多野结衣出演不老实的恋人们,https://t23a.cdn2020.com/video/m3u8/2024/03/03/b306f1dc/index.m3u8
-ibw-766 被父亲持续侵犯的女儿-稲場るか,https://t23a.cdn2020.com/video/m3u8/2024/03/03/72619ef9/index.m3u8
-sspd-159 绝对不能告诉老公地秘密-琴井しほり,https://t23a.cdn2020.com/video/m3u8/2024/03/03/b6288f4e/index.m3u8
-abs-189 满足点爆棚的巨乳新人-あやみ旬果,https://t23a.cdn2020.com/video/m3u8/2024/03/03/fbd993f5/index.m3u8
-dv-1212 裸体主义者,https://t23a.cdn2020.com/video/m3u8/2024/03/03/84fe2b66/index.m3u8
-
-青楼十二房HD,https://vip1.lz-cdn1.com/20220527/6740_ebcdd127/index.m3u8?dpvt=950506109111994610011111811610010046109
-十八传媒陆六0,#genre#
-
-总统Swag16,https://je40u.cdnedge.live/file/avple-images/hls/62d326d075425b99bb694ccd/playlist.m3u8
-总统Swag18,https://w9n76.cdnedge.live/file/avple-images/hls/62d326d075425b99bb694cc9/playlist.m3u8
-总统Swag19,https://u89ey.cdnedge.live/file/avple-images/hls/62d326d075425b99bb694cca/playlist.m3u8
-总统Swag20,https://8bb88.cdnedge.live/file/avple-images/hls/62d1d55075425b99bb694cc4/playlist.m3u8
-总统Swag21,https://1xp60.cdnedge.live/file/avple-images/hls/62d1d55075425b99bb694cc5/playlist.m3u8
-总统Swag22,https://e2fa6.cdnedge.live/file/avple-images/hls/62d1d55075425b99bb694cc2/playlist.m3u8
-总统Swag23,https://10j99.cdnedge.live/file/avple-images/hls/62d1d55075425b99bb694cc3/playlist.m3u8
-总统Swag26,https://d862cp.cdnedge.live/file/avple-images/hls/62d083d075425b99bb694cb9/playlist.m3u8
-总统Swag27,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d083d075425b99bb694cbc/playlist.m3u8
-总统Swag28,https://zo392.cdnedge.live/file/avple-images/hls/62d083d075425b99bb694cbe/playlist.m3u8
-总统Swag29,https://e2fa6.cdnedge.live/file/avple-images/hls/62d083d075425b99bb694cbb/playlist.m3u8
-总统Swag30,https://u89ey.cdnedge.live/file/avple-images/hls/62d083d075425b99bb694cbd/playlist.m3u8
-总统Swag31,https://d862cp.cdnedge.live/file/avple-images/hls/62d083d075425b99bb694cba/playlist.m3u8
-总统Swag32,https://u89ey.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb8/playlist.m3u8
-总统Swag33,https://8bb88.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb6/playlist.m3u8
-总统Swag34,https://u89ey.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb3/playlist.m3u8
-总统Swag35,https://je40u.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb5/playlist.m3u8
-总统Swag36,https://zo392.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb1/playlist.m3u8
-总统Swag37,https://1xp60.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb4/playlist.m3u8
-总统Swag38,https://10j99.cdnedge.live/file/avple-images/hls/62cde0d075425b99bb694cae/playlist.m3u8
-总统Swag39,https://10j99.cdnedge.live/file/avple-images/hls/62cde0d075425b99bb694cb0/playlist.m3u8
-总统Swag41,https://zo392.cdnedge.live/file/avple-images/hls/62cde0d075425b99bb694cab/playlist.m3u8
-总统Swag42,https://u89ey.cdnedge.live/file/avple-images/hls/62cde0d075425b99bb694ca9/playlist.m3u8
-总统Princessdolly01,https://1xp60.cdnedge.live/file/avple-images/hls/62dc615075425b99bb694d07/playlist.m3u8
-总统Princessdolly02,https://zo392.cdnedge.live/file/avple-images/hls/62db0fd075425b99bb694cf9/playlist.m3u8
-总统Princessdolly03,https://10j99.cdnedge.live/file/avple-images/hls/62d71b5075425b99bb694ce4/playlist.m3u8
-总统Princessdolly06,https://je40u.cdnedge.live/file/avple-images/hls/6198ab1df1d93a199d1cf17c/playlist.m3u8
-总统Princessdolly08,https://je40u.cdnedge.live/file/avple-images/hls/6153e4dfb38f683918c346b6/playlist.m3u8
-总统Princessdolly10,https://q2cyl7.cdnedge.live/file/avple-images/hls/614bfcd3ce505b70619cc517/playlist.m3u8
-总统Princessdolly11,https://zo392.cdnedge.live/file/avple-images/hls/614bfcd2ce505b70619cc516/playlist.m3u8
-总统Princessdolly12,https://je40u.cdnedge.live/file/avple-images/hls/614bfcd0ce505b70619cc515/playlist.m3u8
-总统Princessdolly14,https://q2cyl7.cdnedge.live/file/avple-images/hls/614bfcccce505b70619cc512/playlist.m3u8
-总统Princessdolly15,https://je40u.cdnedge.live/file/avple-images/hls/6147c11166db28478995ac25/playlist.m3u8
-总统Princessdolly17,https://d862cp.cdnedge.live/file/avple-images/hls/612b4cb1e3c06f24e486b3d7/playlist.m3u8
-总统Princessdolly19,https://zo392.cdnedge.live/file/avple-images/hls/6127d704e618d3791860c7d0/playlist.m3u8
-总统Princessdolly24,https://1xp60.cdnedge.live/file/avple-images/hls/6127d6fde618d3791860c7ca/playlist.m3u8
-总统Princessdolly26,https://d862cp.cdnedge.live/file/avple-images/hls/611118ed114b4a1f231dddba/playlist.m3u8
-总统Princessdolly27,https://zo392.cdnedge.live/file/avple-images/hls/611118de114b4a1f231dddae/playlist.m3u8
-总统Princessdolly45,https://je40u.cdnedge.live/file/avple-images/hls/609d2da26fbca77051d82c1d/playlist.m3u8
-总统Princessdolly46,https://zo392.cdnedge.live/file/avple-images/hls/609d2da26fbca77051d82c0b/playlist.m3u8
-总统Princessdolly47,https://8bb88.cdnedge.live/file/avple-images/hls/609d2da26fbca77051d82bf9/playlist.m3u8
-总统Princessdolly56,https://u89ey.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82bab/playlist.m3u8
-总统Princessdolly57,https://je40u.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82ba7/playlist.m3u8
-总统Princessdolly58,https://w9n76.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82ba0/playlist.m3u8
-总统何苗01,https://d862cp.cdnedge.live/file/avple-images/hls/61051cd6c778956038fdd09e/playlist.m3u8
-总统何苗02,https://8bb88.cdnedge.live/file/avple-images/hls/60e6f101295d6915521367be/playlist.m3u8
-总统何苗03,https://e2fa6.cdnedge.live/file/avple-images/hls/60ddd96d41b32117d66a0b90/playlist.m3u8
-总统何苗06,https://10j99.cdnedge.live/file/avple-images/hls/60ba17adecb87a1b5b8fa845/playlist.m3u8
-总统何苗11,https://10j99.cdnedge.live/file/avple-images/hls/6070dc7890160a18a06bac77/video_1.m3u8
-总统夜夜02,https://d862cp.cdnedge.live/file/avple-images/hls/605d78241eac1e0435da7777/video_1.m3u8
-总统夜夜07,https://8bb88.cdnedge.live/file/avple-images/hls/61630fed114a6a29b065cdec/playlist.m3u8
-总统夜夜08,https://d862cp.cdnedge.live/file/avple-images/hls/618626d126bdd144b598cbd8/playlist.m3u8
-总统夜夜09,https://e2fa6.cdnedge.live/file/avple-images/hls/61b46e79f91a1b0eecb6e531/playlist.m3u8
-总统夜夜13,https://e2fa6.cdnedge.live/file/avple-images/hls/621e146a0b43873ee3783be9/playlist.m3u8
-总统夜夜15,https://e2fa6.cdnedge.live/file/avple-images/hls/626768d66fc93733f74fd868/playlist.m3u8
-总统沈芯01,https://je40u.cdnedge.live/file/avple-images/hls/605d78241eac1e0435da7859/video_1.m3u8
-总统沈芯02,https://q2cyl7.cdnedge.live/file/avple-images/hls/605d78241eac1e0435da7847/playlist.m3u8
-总统孟若1,https://w9n76.cdnedge.live/file/avple-images/hls/60b506e26901331b989b0062/playlist.m3u8
-总统孟若2,https://e2fa6.cdnedge.live/file/avple-images/hls/60f7f6bed45eb930dbef9642/playlist.m3u8
-总统孟若3,https://1xp60.cdnedge.live/file/avple-images/hls/608c40f7dec53e18bd7d4b0f/playlist.m3u8
-总统孟若4,https://je40u.cdnedge.live/file/avple-images/hls/61044393c778956038fdd092/playlist.m3u8
-总统孟若5,https://zo392.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
-总统孟若6,https://10j99.cdnedge.live/file/avple-images/hls/61490599aa66a611331a8a68/playlist.m3u8
-总统孟若8,https://e2fa6.cdnedge.live/file/avple-images/hls/619c01d1f0d6ad68f95a08a8/playlist.m3u8
-总统孟若9,https://zo392.cdnedge.live/file/avple-images/hls/61accd32779a324ef83699a0/playlist.m3u8
-总统孟若1,https://je40u.cdnedge.live/file/avple-images/hls/61c6a612668fd93b4250a31c/playlist.m3u8
-总统孟若2,https://d862cp.cdnedge.live/file/avple-images/hls/61d0c2bd8ec5397ce0e2cde4/playlist.m3u8
-总统孟若3,https://10j99.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
-赶尸艳谈,https://hot.1080pzy.co/20230918/MvKEk33R/1000kb/hls/index.m3u8
-血恋,https://hot.1080pzy.co/20230919/cAV1J8MZ/1000kb/hls/index.m3u8
-山中艳谭,https://hot.1080pzy.co/20230919/x6g7iHEM/1000kb/hls/index.m3u8
-淫童https://v8.suonizy-youku.com/202310/06/H9L5SzUyAD1/video/index.m3u8
-留住真情,https://ckzy1com.com/20230106/JDeeat2r/1000kb/hls/index.m3u8
-武则天,https://ckzy1com.com/20221217/r8OKLHTx/index.m3u8
-
-十八国产视频,#genre#
-04年极品白丝嫩足,https://t21.cdn2020.com/video/m3u8/2023/02/01/18ac5bce/index.m3u8
-18岁小嫩妹辍学做外围-田伯光,https://t21.cdn2020.com/video/m3u8/2023/04/13/d7cb73d8/index.m3u8
-3000约操18岁大一新生-八戒,https://t21.cdn2020.com/video/m3u8/2023/03/22/8b0e62d5/index.m3u8
-BLX-0037闺蜜蹭饭也蹭炮-舒可芯,https://t21.cdn2020.com/video/m3u8/2023/02/07/a10b630b/index.m3u8
-BLX-0039替岳父止痒的好媳妇-韩棠,https://t21.cdn2020.com/video/m3u8/2023/02/15/61b152a3/index.m3u8
-BLX-0045青梅竹马感情升温-艾秋,https://t21.cdn2020.com/video/m3u8/2023/03/10/2d11caeb/index.m3u8
-cola的毕业洗礼,https://t21.cdn2020.com/video/m3u8/2023/01/31/de3c09bd/index.m3u8
-FSOG-064网袜白虎小学妹,https://t21.cdn2020.com/video/m3u8/2023/03/03/b233b478/index.m3u8
-FSOG-065零三年的小白虎-唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/03/42c5f64b/index.m3u8
-FSOG-067JK学妹的毕业洗礼,https://t21.cdn2020.com/video/m3u8/2023/03/06/a800ea05/index.m3u8
-MM-074洄澜看海之旅-吴梦梦,https://t21.cdn2020.com/video/m3u8/2023/03/09/167d8603/index.m3u8
-MPG-0037两兄弟轮操失恋小姑-徐蕾,https://t21.cdn2020.com/video/m3u8/2023/03/27/d4a75e10/index.m3u8
-力调教白丝嫩萝莉-小二先生,https://t21.cdn2020.com/video/m3u8/2023/01/26/6255511e/index.m3u8
-变态巴士之美容师小波多野结衣,https://t21.cdn2020.com/video/m3u8/2023/03/16/210ace03/index.m3u8
-变态瑜伽学生紧身裤外显阴沟,https://t21.cdn2020.com/video/m3u8/2023/02/21/19e65f80/index.m3u8
-春节贴完对联就是输出洛丽塔妹妹的时间,https://t21.cdn2020.com/video/m3u8/2023/01/31/9417e842/index.m3u8
-大二学姐被灌醉猥亵,https://t21.cdn2020.com/video/m3u8/2023/02/01/df1278f9/index.m3u8
-大年三十操小妈-舒舒,https://t21.cdn2020.com/video/m3u8/2023/01/28/e33a4745/index.m3u8
-海岛特辑-樱花小猫,https://t21.cdn2020.com/video/m3u8/2023/02/15/4a6d6f4b/index.m3u8
-精东影业JDYL023叫鸡叫到亲姐姐,https://t21.cdn2020.com/video/m3u8/2023/02/11/d781fd63/index.m3u8
-聚会后的强奸同事的嫩穴被我侵犯,https://t21.cdn2020.com/video/m3u8/2023/03/27/ddc2b4dd/index.m3u8
-泰国年轻小情侣药物助兴,https://t21.cdn2020.com/video/m3u8/2023/02/07/bb4e5403/index.m3u8
-天美传媒TMP0084嫂子的诱惑,https://t21.cdn2020.com/video/m3u8/2023/03/27/36a3c2e2/index.m3u8
-天美传媒TMW162狂飙之黑道夫妇恋爱之路,https://t21.cdn2020.com/video/m3u8/2023/04/11/8b8e83f0/index.m3u8
-
-
-
-十八激情贰区,#genre#
-欧美_2,https://vip1.fhbf9.com/20210708/os7ueau2/index.m3u8
-欧美_3,https://vip1.fhbf9.com/20210708/Q9bDQ56y/index.m3u8
-欧美_4,https://vip1.fhbf9.com/20210708/lPQa70iL/index.m3u8
-欧美_5,https://vip1.fhbf9.com/20210708/ApZbg6Ny/index.m3u8
-欧美_6,https://vip1.fhbf9.com/20210708/qmvCsbnH/index.m3u8
-欧美_7,https://vip1.fhbf9.com/20210708/eERRb8XC/index.m3u8
-欧美_8,https://vip1.fhbf9.com/20210708/CSvXAjBu/index.m3u8
-欧美_10,https://vip1.fhbf9.com/20210707/oAu30gVK/index.m3u8
 
