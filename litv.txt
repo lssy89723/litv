@@ -35,6 +35,45 @@ HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 東森購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+TVBS新聞臺,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+鳳凰HD,http://125.227.210.55:39004/VideoInput/play.ts
+民視台灣台,https://gat.zhoujie218.top/litv/4gtv-4gtv001
+民視,https://gat.zhoujie218.top/litv/4gtv-4gtv002
+民視第一台,https://gat.zhoujie218.top/litv/4gtv-4gtv003
+民視綜藝,https://gat.zhoujie218.top/litv/4gtv-4gtv004
+中天新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv009
+非凡新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv010
+視納華仁紀實頻道,https://gat.zhoujie218.top/litv/4gtv-4gtv013
+時尚運動X,https://gat.zhoujie218.top/litv/4gtv-4gtv014
+達文西頻道,https://gat.zhoujie218.top/litv/4gtv-4gtv018
+八大精彩台,https://gat.zhoujie218.top/litv/4gtv-4gtv034
+八大綜藝台,https://gat.zhoujie218.top/litv/4gtv-4gtv039
+中視,https://gat.zhoujie218.top/litv/4gtv-4gtv040
+華視,https://gat.zhoujie218.top/litv/4gtv-4gtv041
+台視新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv051
+華視新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv052
+台視財經,https://gat.zhoujie218.top/litv/4gtv-4gtv056
+靖洋卡通台,https://gat.zhoujie218.top/litv/4gtv-4gtv057
+中視菁采,https://gat.zhoujie218.top/litv/4gtv-4gtv064
+靖天資訊台,https://gat.zhoujie218.top/litv/4gtv-4gtv065
+台視,https://gat.zhoujie218.top/litv/4gtv-4gtv066
+TVBS精采台,https://gat.zhoujie218.top/litv/4gtv-4gtv067
+TVBS歡樂台,https://gat.zhoujie218.top/litv/4gtv-4gtv068
+TVBS新聞台,https://gat.zhoujie218.top/litv/4gtv-4gtv072
+TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
+中視新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv074
+鏡新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv075
+東森新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv152
+東森財經新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv153
+民視,https://gat.zhoujie218.top/litv/4gtv-4gtv155
+民視台灣台,https://gat.zhoujie218.top/litv/4gtv-4gtv156
 
 MMTV_ww,#genre#
 第一视角720,http://cdn.adultiptv.net/pov.m3u8
@@ -50,6 +89,7 @@ MMTV_ww,#genre#
 色星720,http://cdn.adultiptv.net/pornstar.m3u8
 🍌️香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
 ♥️驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+💖麻豆,http://125.227.210.55:51359/VideoInput/play.ts
 🔞奥視2,http://125.227.210.55:55643/VideoInput/play.ts
 🔞奥視3,http://125.227.210.55:8917/VideoInput/play.ts
 💖Sex❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
