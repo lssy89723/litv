@@ -84,7 +84,7 @@ TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 民視,https://gat.zhoujie218.top/litv/4gtv-4gtv155
 民視台灣台,https://gat.zhoujie218.top/litv/4gtv-4gtv156
 
-💝預設定频👉,#genre#
+💝台灣第四台👉,#genre#
 1龍華经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 2三立综合台,https://stream1.freetv.fun/fdf2bf897e0217754c91e5064b1ac7855f31eda692af574b11db9c97d9b5e23b.m3u8
 3民视影剧,http://litv.zapi.us.kg/?id=litv-ftv09
@@ -200,7 +200,7 @@ TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS新聞臺,http://125.227.210.55:8186/VideoInput/play.ts
 
-備用1,#genre#
+臺灣備用1,#genre#
 tvbs歡樂,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
 公視戲劇,https://stream1.freetv.fun/c3d36762c8981e570c684941922976b7c1d73033e73fcb55cd17acd246c6fc1f.ctv
 民視第一臺,https://stream1.freetv.fun/9ea8a37673110b3b80aa73244b72df7e84bcf109646fc2d77354657c9ecc53b5.m3u8
@@ -253,7 +253,7 @@ AXN,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6098a2
 Bloomberg News,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609ba0
 NHK世界,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa1
 好萊塢電影,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa3
-台灣備用,#genre#
+台灣備用2,#genre#
 [HD]momo綜合,rtmp://f13h.mine.nu/sat/tv761
 [HD]momo綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 [HD]momo綜合,rtmp://twcdn.top/sat/tv761
@@ -785,7 +785,6 @@ thrill电影,p3p://108.181.32.169:28320/644a0879000272f67a89b6687af342ae
 龙翔电影,p3p://108.181.32.169:28320/642d014b0009f96e092658cb4e1b23ff
 BabyFirs,p3p://108.181.32.169:28320/642d015f000070f00926a47a6a2e7d52
 et综合,p3p://108.181.32.169:28320/642d017d0000a964092719b87e2e3acd
-
 民视新闻台,p3p://108.181.32.169:28320/64c859e10007934267f487ac0fa618e0
 壹电视新闻台,p3p://108.181.32.169:28320/642521bd0005dfe9ea654d921969472d
 东森新闻,p3p://108.181.32.169:28320/64251f9700046520ea5ce8b85b6c11da
@@ -812,10 +811,6 @@ ELTA体育3台国语,p3p://108.181.32.169:28320/6433e3220006392724084f1711880c01
 ESPN 1,p3p://108.181.32.169:28320/64311ba20007409b192d3bec4f60079a
 ESPN 2,p3p://108.181.32.169:28320/64311d29000d2a3b193334cb71ba3db4
 ESPN 3,p3p://108.181.32.169:28320/64311e68000a2a1d1938121f51b1501b
-
-
-
-
 
 MMTV_ww,#genre#
 第一视角720,http://cdn.adultiptv.net/pov.m3u8
