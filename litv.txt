@@ -1,5 +1,5 @@
 📺NEWS💝,#genre#
-中天新聞0,http://tv.redrainl.site:9500/live.m3u8?c=03
+中天新聞0,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新聞1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 東森新聞0,https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
 東森新聞1,http://37.27.111.214:8080/live/20/hls.m3u8
