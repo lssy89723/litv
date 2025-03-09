@@ -1,6 +1,7 @@
 📺NEWS💝,#genre#
-東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+TVBS新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 東森新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
+東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
 中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
@@ -16,6 +17,9 @@ Love Nature HD,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 華視,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+愛爾達娛樂台，http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
+緯來體育，http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
+TVBS精采台，http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
