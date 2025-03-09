@@ -178,7 +178,7 @@ VISIT-X：https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 拉丁裔,http://cdn.adultiptv.net/latina.m3u8
 黑发,http://cdn.adultiptv.net/brunette.m3u8
 金发女郎,http://cdn.adultiptv.net/blonde.m3u8
-观点,http://cdn.adultiptv.net/pov.m3u8
+怪癖,http://cdn.adultiptv.net/pov.m3u8
 口交,http://cdn.adultiptv.net/blowjob.m3u8
 硬核,http://cdn.adultiptv.net/hardcore.m3u8
 绿帽,http://cdn.adultiptv.net/cuckold.m3u8
