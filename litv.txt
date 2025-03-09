@@ -1,7 +1,6 @@
 📺NEWS💝,#genre#
 東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 東森新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
-TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
 中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
