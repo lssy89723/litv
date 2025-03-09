@@ -1,88 +1,25 @@
 📺NEWS💝,#genre#
-中天新聞0,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中天新聞1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-東森新聞0,https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
-東森新聞1,http://37.27.111.214:8080/live/20/hls.m3u8
-TVBS新聞臺,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-TVBS NESW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-非凡新聞,https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
-TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-壹新聞,https://z88.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+東森新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
+TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
+中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-寰宇新聞0,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-寰宇新聞1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-民視新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-台視新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-中視新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
-東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+鳳凰資訊,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+Love Nature HD,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+Love_The_Planet,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
+中視,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+中視新聞,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+台視,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+台視新聞,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+民視,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
+民視新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
+華視,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
-Discovery HD,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/fvptsnk3/index.m3u8
-Discovery 動力頻道 HD,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/nvhgfr5c/index.m3u8
-Discovery 科學頻道 HD,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/0j9wgpsb/index.m3u8
-國家地理 HD ,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/nvhgfr5c/index.m3u8
-History HD,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/4m124k0n/index.m3u8
-History2 HD,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/t6u5b1q4/hdfg61df/index.m3u8
-亞洲旅遊臺 HD,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/jhmt4rc8/index.m3u8
-亞洲美食,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/t6u5b1q4/2fdxafax/index.m3u8
-美食星球,http://yccloud.serv00.net/huanqiu.php?m3u8=/live/kwzq1rse/45c2r1kr/index.m3u8
-HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-愛爾達體育3台,http://vp.ubvip1688.com:8080/vod/7B0F7DF8/main.m3u8
-大愛1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-大愛2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-東森購物0,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-東森購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
-Discovery,http://125.227.210.55:8154/VideoInput/play.ts
-三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-TVBS新聞臺,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
-TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-鳳凰HD,http://125.227.210.55:39004/VideoInput/play.ts
-民視台灣台,https://gat.zhoujie218.top/litv/4gtv-4gtv001
-民視,https://gat.zhoujie218.top/litv/4gtv-4gtv002
-民視第一台,https://gat.zhoujie218.top/litv/4gtv-4gtv003
-民視綜藝,https://gat.zhoujie218.top/litv/4gtv-4gtv004
-中天新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv009
-非凡新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv010
-視納華仁紀實頻道,https://gat.zhoujie218.top/litv/4gtv-4gtv013
-時尚運動X,https://gat.zhoujie218.top/litv/4gtv-4gtv014
-達文西頻道,https://gat.zhoujie218.top/litv/4gtv-4gtv018
-八大精彩台,https://gat.zhoujie218.top/litv/4gtv-4gtv034
-八大綜藝台,https://gat.zhoujie218.top/litv/4gtv-4gtv039
-中視,https://gat.zhoujie218.top/litv/4gtv-4gtv040
-華視,https://gat.zhoujie218.top/litv/4gtv-4gtv041
-台視新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv051
-華視新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv052
-台視財經,https://gat.zhoujie218.top/litv/4gtv-4gtv056
-靖洋卡通台,https://gat.zhoujie218.top/litv/4gtv-4gtv057
-中視菁采,https://gat.zhoujie218.top/litv/4gtv-4gtv064
-靖天資訊台,https://gat.zhoujie218.top/litv/4gtv-4gtv065
-台視,https://gat.zhoujie218.top/litv/4gtv-4gtv066
-TVBS精采台,https://gat.zhoujie218.top/litv/4gtv-4gtv067
-TVBS歡樂台,https://gat.zhoujie218.top/litv/4gtv-4gtv068
-TVBS新聞台,https://gat.zhoujie218.top/litv/4gtv-4gtv072
-TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
-中視新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv074
-鏡新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv075
-東森新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv152
-東森財經新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv153
-民視,https://gat.zhoujie218.top/litv/4gtv-4gtv155
-民視台灣台,https://gat.zhoujie218.top/litv/4gtv-4gtv156
 
 📺第四台💝,#genre#
 1龍華经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
