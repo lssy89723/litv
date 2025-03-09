@@ -7,7 +7,6 @@
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 鳳凰資訊,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 Love Nature HD,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-Love_The_Planet,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
 中視,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
 中視新聞,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
 台視,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
