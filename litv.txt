@@ -21,7 +21,7 @@ Love Nature HD,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 緯來體育，http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
 TVBS精采台，http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 
 📺第四台💝,#genre#
 1龍華经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
