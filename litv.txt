@@ -22,72 +22,7 @@ Love Nature HD,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 TVBS精采台，http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
-
 📺第四台💝,#genre#
-1龍華经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-2三立综合台,https://stream1.freetv.fun/fdf2bf897e0217754c91e5064b1ac7855f31eda692af574b11db9c97d9b5e23b.m3u8
-3民视影剧,http://litv.zapi.us.kg/?id=litv-ftv09
-4民视台湾,https://stream1.freetv.fun/00c98459d6f83ffd73144dac3c7d7270a08dac94d08dfb5b107054229f3f1084.ctv
-5民视第一,http://litv.zapi.us.kg/?id=4gtv-4gtv003
-6民视,http://litv.zapi.us.kg/?id=4gtv-4gtv155
-7民视综藝,http://litv.zapi.us.kg/?id=4gtv-4gtv004
-8台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
-9台灣戲劇台,http://litv.zapi.us.kg/?id=litv-longturn22
-10中视,http://litv.zapi.us.kg/?id=4gtv-4gtv040
-11公视戲劇台,http://litv.zapi.us.kg/?id=4gtv-4gtv042
-12華視,http://litv.zapi.us.kg/?id=4gtv-4gtv041
-13公视 CTV,http://125.227.210.55:8164/VideoInput/play.ts
-14公視二臺,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
-15TVBS精彩,http://litv.zapi.us.kg/?id=4gtv-4gtv067
-16八大精彩,http://litv.zapi.us.kg/?id=4gtv-4gtv034
-17八大综藝,http://litv.zapi.us.kg/?id=4gtv-4gtv039
-18爱尔達娱樂台,http://litv.zapi.us.kg/?id=4gtv-4gtv070
-19靖天戲劇,http://litv.zapi.us.kg/?id=4gtv-4gtv045
-20靖天综合,http://litv.zapi.us.kg/?id=4gtv-4gtv046
-21靖天歡樂,http://litv.zapi.us.kg/?id=4gtv-4gtv054
-22靖天育乐,http://litv.zapi.us.kg/?id=4gtv-4gtv062
-23猪哥亮歌廳秀,http://litv.zapi.us.kg/?id=4gtv-4gtv006
-24客家电视,http://litv.zapi.us.kg/?id=4gtv-4gtv043
-25采昌影剧,http://litv.zapi.us.kg/?id=4gtv-4gtv049
-26八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-27八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-28八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-29三立臺灣,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
-30三立都會,https://stream1.freetv.fun/san-li-du-hui-1.m3u8
-31三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
-32星空衛视,http://wouu.net:9977/rtp/239.93.1.10:2193
-33纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-34东森超视,rtmp://f13h.mine.nu/sat/tv331
-35tvbs歡樂,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
-36年代MUCH,https://stream1.freetv.fun/d55f0bf3ca7f68a0861404d9ecd878546b74f474f002f7cd69c88d2ce185d041.ctv
-37緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-38中天娛樂,https://stream1.freetv.fun/zhong-tian-yu-le-3.m3u8
-39東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-40大爱,https://stream1.freetv.fun/814df2706318d264b6da39c678fe68ce1039e2850b4e71ef4565fcd95c7678ca.m3u8
-41大爱2台,https://stream1.freetv.fun/299421e6237fa17b9f9f88b6a1e3f9b68f5b9dd4fbad95c46e30dc312973287f.m3u8
-42DAZN体育壹,rtmp://f13h.mine.nu/sat/tv731
-43DAZN体育贰,rtmp://f13h.mine.nu/sat/tv741
-44纬来体育,rtmp://f13h.mine.nu/sat/tv721
-45爱尔达体育1,mitv://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
-46爱尔达体育2,mitv://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
-47爱尔达体育3,mitv://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
-48爱尔达体育4,mitv://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
-49闽镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
-50年代新聞,https://stream1.freetv.fun/be747d41b511a08679873d70f146d45d4c35c09256139e1a48dd9fdf20ac398b.m3u8
-51東森新聞,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
-52寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-53民視新聞,https://stream1.freetv.fun/37de02efb12a4dc05e13814405a580e6f46b091c993c411e7a95bcac4c41e9b0.m3u8
-54三立新聞,https://stream1.freetv.fun/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.ctv
-55TVBS新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-56TVBS,https://stream1.freetv.fun/69a6002a82368bd46e1d7da8a2405145bcbc5ca195f0a26b9ca4a21acdb45dd4.m3u8
-57靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
-58靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
-59数位电影,http://litv.zapi.us.kg/?id=4gtv-4gtv011
-60Amc电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017
-61緯來電影,https://stream1.freetv.fun/722505b3aabbd0a31f226ee7ea22ff410e8ebc38f635956ecc1be637b1732c0b.m3u8
-62東森電影,https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8
-
-📺第四台備,#genre#
 tvbs歡樂,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
 公視戲劇,https://stream1.freetv.fun/c3d36762c8981e570c684941922976b7c1d73033e73fcb55cd17acd246c6fc1f.ctv
 民視第一臺,https://stream1.freetv.fun/9ea8a37673110b3b80aa73244b72df7e84bcf109646fc2d77354657c9ecc53b5.m3u8
@@ -141,7 +76,7 @@ Bloomberg News,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7
 NHK世界,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa1
 好萊塢電影,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa3
 
-💝MMTV_ww,#genre#
+💝MTV_ww,#genre#
 第一视角720,http://cdn.adultiptv.net/pov.m3u8
 熟女720,http://cdn.adultiptv.net/milf.m3u8
 俄罗斯720,http://cdn.adultiptv.net/russian.m3u8
@@ -296,70 +231,3 @@ DJ版《三月里的小雨》[1920x1080],https://vd2.bdstatic.com/mda-mgwegh0bzv
 朴素妍音乐,http://epg.112114.xyz/douyu/603070
 24H音乐女团,http://epg.112114.xyz/douyu/3870925
 kpop音乐女团,http://epg.112114.xyz/douyu/329667
-💝演唱会,#genre#
-张惠妹-天才白痴梦(演唱会),http://em.21dtv.com/songs/60041755.mkv
-任贤齐+周华健-天才白痴梦(演唱会),http://em.21dtv.com/songs/60041753.mkv
-赵传-快乐似神仙(演唱会),http://em.21dtv.com/songs/60025784.mkv
-刘德华-开心的马骝(演唱会),http://em.21dtv.com/songs/60025029.mkv
-张帝+朱明瑛-万水千山总是情(演唱会),http://em.21dtv.com/songs/60043310.mkv
-张帝-为什么不爱我(演唱会),http://em.21dtv.com/songs/60078099.mkv
-张帝-毛毛歌(演唱会),http://em.21dtv.com/songs/60028653.mkv
-李宇春-零点五英里(演唱会),http://em.21dtv.com/songs/60027451.mkv
-蔡琴-绿岛小夜曲(演唱会),http://em.21dtv.com/songs/60028153.mkv
-刘若英-绿岛小夜曲(演唱会),http://em.21dtv.com/songs/60028155.mkv
-甄妮-绿岛小夜曲(演唱会),http://em.21dtv.com/songs/60028156.mkv
-黄品源+任贤齐-浪花一朵朵(演唱会),http://em.21dtv.com/songs/60026219.mkv
-梅花三姐妹-流浪走天涯(演唱会),http://em.21dtv.com/songs/60027690.mkv
-张学友+许慧欣-流星下的愿(演唱会),http://em.21dtv.com/songs/60027735.mkv
-谭咏麟+李克勤-理想与和平(演唱会),http://em.21dtv.com/songs/60026892.mkv
-谭咏麟-理想与和平(演唱会),http://em.21dtv.com/songs/60026893.mkv
-徐小凤-流下眼泪前(演唱会),http://em.21dtv.com/songs/60027719.mkv
-梅艳芳-留住你今晚(演唱会),http://em.21dtv.com/songs/60027592.mkv
-谢霆锋-魔鬼的主意(演唱会),http://em.21dtv.com/songs/60030344.mkv
-陈奕迅-玛利奥派对(演唱会),http://em.21dtv.com/songs/60028396.mkv
-孙楠+韩红-美丽的神话(演唱会),http://em.21dtv.com/songs/60029220.mkv
-伍佰-美丽新世界(演唱会),http://em.21dtv.com/songs/60029283.mkv
-梅艳芳-朦胧夜雨里(演唱会),http://em.21dtv.com/songs/60029445.mkv
-郭富城-木偶袭地球(演唱会),http://em.21dtv.com/songs/60030576.mkv
-谭咏麟+李克勤-梦仍是一样(演唱会),http://em.21dtv.com/songs/60029634.mkv
-谢霆锋-每日一禁果(演唱会),http://em.21dtv.com/songs/60029046.mkv
-陈慧娴-明日有明天(演唱会),http://em.21dtv.com/songs/60030151.mkv
-王力宏-梦想被冷冻(演唱会),http://em.21dtv.com/songs/60029668.mkv
-杨小萍-梦醒不了情(演唱会),http://em.21dtv.com/songs/60029704.mkv
-陈奕迅-每一个明天(演唱会),http://em.21dtv.com/songs/60029081.mkv
-德华+林子祥-每一个晚上(演唱会),http://em.21dtv.com/songs/60029089.mkv
-汪峰-怒放的生命(演唱会),http://em.21dtv.com/songs/60032787.mkv
-杨千嬅-你还爱我吗(演唱会),http://em.21dtv.com/songs/60031733.mkv
-黄凯芹-你留我在此(演唱会),http://em.21dtv.com/songs/60031902.mkv
-张学友-你是爱我的(演唱会),http://em.21dtv.com/songs/60031991.mkv
-李玟-你在我心上(演唱会),http://em.21dtv.com/songs/60032475.mkv
-邓丽君-你在我心中(演唱会),http://em.21dtv.com/songs/60032477.mkv
-邓丽君-你在我心中(演唱会),http://em.21dtv.com/songs/60032477.mkv
-田震-千百回期待(演唱会),http://em.21dtv.com/songs/60034057.mkv
-梁静茹-如果有一天(演唱会),http://em.21dtv.com/songs/60036968.mkv
-动力火车-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036260.mkv
-刘德华-世界第一等(演唱会),http://em.21dtv.com/songs/60039259.mkv
-张清芳-时间的滋味(演唱会),http://em.21dtv.com/songs/60039131.mkv
-陈慧娴-逝去的诺言(演唱会),http://em.21dtv.com/songs/60039551.mkv
-伍佰-突然的自我(演唱会),http://em.21dtv.com/songs/60042927.mkv
-汪峰-小鸟(演唱会),http://em.21dtv.com/songs/60049679.mkv
-叶倩文-冲动(演唱会),http://em.21dtv.com/songs/60012844.mkv
-张惠妹-冲动(演唱会),http://em.21dtv.com/songs/60012845.mkv
-刀郎-沙枣花儿香(演唱会),http://em.21dtv.com/songs/60037482.mkv
-李宗盛-鬼迷心窍(演唱会),http://em.21dtv.com/songs/60019400.mkv
-周华健-鬼迷心窍(演唱会),http://em.21dtv.com/songs/60019401.mkv
-任贤齐+李宗盛-鬼迷心窍,http://em.21dtv.com/songs/60019402.mkv
-梁咏琪-高妹正传(演唱会),http://em.21dtv.com/songs/60018211.mkv
-莫文蔚-姑娘酒窝(演唱会),http://em.21dtv.com/songs/60018945.mkv
-费翔-故乡的云(演唱会),http://em.21dtv.com/songs/60019102.mkv
-刘德华-十年(演唱会),http://em.21dtv.com/songs/60038982.mkv
-蔡琴-绿岛小夜曲(HD演唱会),http://em.21dtv.com/songs/60028153.mkv
-叶倩文+陈奕迅-女人的眼泪(演唱会),http://em.21dtv.com/songs/60032929.mkv
-毛宁-你是我的眼(演唱会),http://em.21dtv.com/songs/60062759.mkv
-蔡琴-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035193.mkv
-范晓萱-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035194.mkv
-林忆莲-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035195.mkv
-罗大佑-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035196.mkv
-王天丽-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035197.mkv
-叶丽仪-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035198.mkv
-周蕙-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035199.mkv
