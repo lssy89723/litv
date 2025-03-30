@@ -1,5 +1,5 @@
 📺NEWS💝,#genre#
-TVBS新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 EBC東森LIVE,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
@@ -64,7 +64,7 @@ Bloomberg News,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7
 NHK世界,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa1
 好萊塢電影,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa3
 
-💝MTV_ww,#genre#
+💝MTV0_ww,#genre#
 第一视角720,http://cdn.adultiptv.net/pov.m3u8
 熟女720,http://cdn.adultiptv.net/milf.m3u8
 俄罗斯720,http://cdn.adultiptv.net/russian.m3u8
