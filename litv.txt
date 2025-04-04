@@ -1,4 +1,4 @@
-📺NEWS💝,#genre#
+📺TV,#genre#
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 EBC東森LIVE,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
@@ -10,59 +10,20 @@ Love Nature HD,http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
-📺第四台💝,#genre#
+
 tvbs歡樂,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
-公視戲劇,https://stream1.freetv.fun/c3d36762c8981e570c684941922976b7c1d73033e73fcb55cd17acd246c6fc1f.ctv
-民視第一臺,https://stream1.freetv.fun/9ea8a37673110b3b80aa73244b72df7e84bcf109646fc2d77354657c9ecc53b5.m3u8
-民視臺灣台,https://stream1.freetv.fun/00c98459d6f83ffd73144dac3c7d7270a08dac94d08dfb5b107054229f3f1084.ctv
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-民視HD,https://stream1.freetv.fun/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.ctv
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-臺視HD,rtmp://twcdn.top/sat/tv071
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-八大戲劇,https://stream1.freetv.fun/ba-da-xi-ju-1.m3u8
-Taiwan Plus,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aa2
 華視HD,rtmp://f13h.mine.nu:1935/sat/tv111
 公视 CTV,http://125.227.210.55:8164/VideoInput/play.ts
-公視二臺,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
-民視綜藝,https://stream1.freetv.fun/444c52a6e20c3fc54184073761350f1a03bf0298db751fdbfafb1814dcc71cf8.ctv
+公視2臺,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
 MOMO綜合臺,rtmp://f13h.mine.nu/sat/tv761
-三立綜合,https://stream1.freetv.fun/fdf2bf897e0217754c91e5064b1ac7855f31eda692af574b11db9c97d9b5e23b.m3u8
-靖天戲劇,https://stream1.freetv.fun/578d90e7aa7f4396eef035dfc94791aad1da999fe22b9a5c55e38b8a5b09cdef.ctv
-靖天歡樂,https://stream1.freetv.fun/0e23a46b049a72886087950976dbf1ebf40b62f3d7cd68ae5223b7c17ff265ec.ctv
-靖天育樂,https://stream1.freetv.fun/8a9abe7dec8e7fec9a6032849dda6d1e653925517f46721ffb9b76e75babccb0.ctv
-東森亞洲衛視,https://stream1.freetv.fun/ya-zhou-wei-shi-1.m3u8
 東森超視,rtmp://f13h.mine.nu/sat/tv331
-中天綜合,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa4
-中天娛樂,https://stream1.freetv.fun/zhong-tian-yu-le-3.m3u8
-龍華日韓,https://stream1.freetv.fun/3fc108be6954ed3cda32d576d9c18a1cf044b003c6d173c74a3fa25824fe100c.ctv
-龍華經典,https://stream1.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.ctv
-GTV八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8 
-GTV八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u
-三立臺灣,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
-三立都會,https://stream1.freetv.fun/san-li-du-hui-1.m3u8
-三立戲劇,https://stream1.freetv.fun/san-li-xi-ju-1.m3u8
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-年代MUCH,https://stream1.freetv.fun/d55f0bf3ca7f68a0861404d9ecd878546b74f474f002f7cd69c88d2ce185d041.ctv
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-年代新聞,https://stream1.freetv.fun/be747d41b511a08679873d70f146d45d4c35c09256139e1a48dd9fdf20ac398b.m3u8
-東森新聞,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
-寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 民視新聞,https://stream1.freetv.fun/37de02efb12a4dc05e13814405a580e6f46b091c993c411e7a95bcac4c41e9b0.m3u8
-三立新聞,https://stream1.freetv.fun/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.ctv
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS,https://stream1.freetv.fun/69a6002a82368bd46e1d7da8a2405145bcbc5ca195f0a26b9ca4a21acdb45dd4.m3u8
-非凡商業,rtmp://twcdn.top/sat/tv581
 東森財經,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.ctv
-東森電影,https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8
-緯來電影,https://stream1.freetv.fun/722505b3aabbd0a31f226ee7ea22ff410e8ebc38f635956ecc1be637b1732c0b.m3u8
-龍華電影,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aa1
-HBO,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609faf
-AXN,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6098a2
-Bloomberg News,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609ba0
-NHK世界,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa1
-好萊塢電影,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa3
 
 💝MTV0_ww,#genre#
 第一视角720,http://cdn.adultiptv.net/pov.m3u8
