@@ -1,4 +1,4 @@
-📺TV,#genre#
+📺TV📺,#genre#
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 EBC東森LIVE,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
