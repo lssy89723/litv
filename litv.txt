@@ -3,27 +3,22 @@ TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 EBC東森LIVE,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+東森財經,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.ctv
+華視HD,rtmp://f13h.mine.nu:1935/sat/tv111
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 鳳凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 Love Nature HD,http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 動物星球,http://108.181.21.27:27347/livehttpplay?channel_id=20106
 動物星球,http://108.181.20.197/livehttpplay?channel_id=20106
-
 tvbs歡樂,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-華視HD,rtmp://f13h.mine.nu:1935/sat/tv111
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 公视 CTV,http://125.227.210.55:8164/VideoInput/play.ts
 公視2臺,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
 MOMO綜合臺,rtmp://f13h.mine.nu/sat/tv761
-東森超視,rtmp://f13h.mine.nu/sat/tv331
-東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-民視新聞,https://stream1.freetv.fun/37de02efb12a4dc05e13814405a580e6f46b091c993c411e7a95bcac4c41e9b0.m3u8
-TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
-東森財經,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.ctv
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
 
 💝MTV0_ww,#genre#
 第一视角720,http://cdn.adultiptv.net/pov.m3u8
