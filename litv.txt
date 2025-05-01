@@ -1,13 +1,8 @@
 📺TV📺,#genre#
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
-EBC東森LIVE,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 東森財經,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.ctv
 華視HD,rtmp://f13h.mine.nu:1935/sat/tv111
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-鳳凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-Love Nature HD,http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 動物星球,http://108.181.21.27:27347/livehttpplay?channel_id=20106
 動物星球,http://108.181.20.197/livehttpplay?channel_id=20106
 tvbs歡樂,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
