@@ -1,5 +1,6 @@
 📺TV📺,#genre#
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+EBC東森新聞http://108.181.20.197/livehttpplay?channel_id=20082
 東森財經,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.ctv
 華視HD,rtmp://f13h.mine.nu:1935/sat/tv111
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
