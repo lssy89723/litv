@@ -1,20 +1,10 @@
 📺TV📺,#genre#
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
-EBC東森新聞,http://108.181.20.197/livehttpplay?channel_id=20082
+EBC東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 華視HD,rtmp://f13h.mine.nu:1935/sat/tv111
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-動物星球,http://108.181.21.27:27347/livehttpplay?channel_id=20106
-動物星球,http://108.181.20.197/livehttpplay?channel_id=20106
-tvbs歡樂,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
-東森超視,rtmp://f13h.mine.nu/sat/tv331
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-公视 CTV,http://125.227.210.55:8164/VideoInput/play.ts
 公視2臺,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
-MOMO綜合臺,rtmp://f13h.mine.nu/sat/tv761
-大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-
-
 💝MTV0_ww,#genre#
 第一视角,http://cdn.adultiptv.net/pov.m3u8
 熟女,http://cdn.adultiptv.net/milf.m3u8
@@ -41,21 +31,9 @@ MOMO綜合臺,rtmp://f13h.mine.nu/sat/tv761
 汇编,http://cdn.adultiptv.net/compilation.m3u8
 女同性恋,http://cdn.adultiptv.net/lesbian.m3u8
 🔞♥️🍌️驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
-Erox HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/31855
-Hot,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30369
 Hustler HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30702
-Newsensation 3,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30696
 Passie,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13359
 SCT Classic,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13354
-Sexmex,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30378
-Venus,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13357
-Canal WOW TV,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/49494
-bluehustler,http://18.svi-studio.com:80/live/824908251669/532612644941/101422.m3u8
-hustlet,http://18.svi-studio.com:80/live/824908251669/532612644941/101423.m3u8
-private,http://18.svi-studio.com:80/live/824908251669/532612644941/101424.m3u8
-vividred,http://18.svi-studio.com:80/live/824908251669/532612644941/101425.m3u8
-vividtouch,http://18.svi-studio.com:80/live/824908251669/532612644941/101426.m3u8
-vividtv,http://18.svi-studio.com:80/live/824908251669/532612644941/101427.m3u8
 💝MTV1,#genre#
 孙露-美人脸,http://em.21dtv.com/songs/60143319.mkv
 孙露-爱你真的好难,http://em.21dtv.com/songs/60143318.mkv
