@@ -6,7 +6,7 @@ EBC東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D867245138
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 公視2臺,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
-💝MTV0_ww,#genre#
+💝MTV0_11,#genre#
 第一视角,http://cdn.adultiptv.net/pov.m3u8
 熟女,http://cdn.adultiptv.net/milf.m3u8
 俄罗斯,http://cdn.adultiptv.net/russian.m3u8
