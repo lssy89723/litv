@@ -1,5 +1,6 @@
 📺TV📺,#genre#
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+東森新聞,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 EBC東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 華視HD,rtmp://f13h.mine.nu:1935/sat/tv111
