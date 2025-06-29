@@ -1,10 +1,10 @@
 📺TV📺,#genre#
-TVBS,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS新聞台1,https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS新聞台2,https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
-東森新聞,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-EBC東森新聞,https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+TVBS HD,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+TVBS HD1,https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+TVBS新聞台,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+TVBS新聞台1,https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+EBC東森LIVE,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+EBC東森LIVE1,https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻1,https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
