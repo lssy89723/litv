@@ -22,7 +22,6 @@ EBC東森LIVE1,http://122.117.71.103:8660/http/61.67.128.137:8081/hls/63/805/ch0
 黑发,http://cdn.adultiptv.net/brunette.m3u8
 绿帽,http://cdn.adultiptv.net/cuckold.m3u8
 拉丁,http://cdn.adultiptv.net/latina.m3u8
-色星,http://cdn.adultiptv.net/pornstar.m3u8
 三人行,http://cdn.adultiptv.net/threesome.m3u8
 大屌,http://cdn.adultiptv.net/bigdick.m3u8
 大奶子,http://cdn.adultiptv.net/bigtits.m3u8
