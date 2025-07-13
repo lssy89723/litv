@@ -1,12 +1,12 @@
 📺TV📺,#genre#
-TVBS HD,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS HD1,https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS新聞台,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-TVBS新聞台1,https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-EBC東森LIVE,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-EBC東森LIVE1,https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-中天新闻1,https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+TVBS HD,http://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8      
+TVBS HD1,http://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+TVBS新聞台,http://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+TVBS新聞台1,http://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+EBC東森LIVE,http://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+EBC東森LIVE1,htt://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+中天新闻,http://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+中天新闻1,http://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 公視2臺,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
