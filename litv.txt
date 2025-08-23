@@ -1,16 +1,11 @@
 📺TV📺,#genre#
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS新聞,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 公視2臺,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
-民视 HD,https://live.catvod.com/catvod_com.php?id=ftvhd_taiwan
 台视 TTV HD,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv066/index.m3u8#https://live.catvod.com/catvod_com.php?id=ttv_taiwan
-中视 HD,https://live.catvod.com/catvod_com.php?id=zhongshihd_twn
-华视 CTS HD,https://live.catvod.com/catvod_com.php?id=ctshd_twn
 公视 CTV,http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8#https://smt.520761.xyz/Smart.php?id=ctv_taiwan
 壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 年代新聞,http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
@@ -20,11 +15,8 @@ TVBS新聞,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 三立新聞HD,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
-非凡新聞HD,http://220.134.196.147:8571/http/61.219.99.20:8081/hls/75/817/ch57.m3u8
 東森財經HD,http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
 寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
-鏡電視新聞台,http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
-台视新闻台,https://live.catvod.com/catvod_com.php?id=ttvnews_twn
 中天新聞,http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
 
 💝MTV0_11,#genre#
