@@ -1,10 +1,7 @@
 📺TV📺,#genre#
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-公視2臺,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
 台视 TTV HD,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv066/index.m3u8#https://live.catvod.com/catvod_com.php?id=ttv_taiwan
 公视 CTV,http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8#https://smt.520761.xyz/Smart.php?id=ctv_taiwan
 壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
