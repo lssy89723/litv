@@ -25,7 +25,7 @@ TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.
 亞洲,http://cdn.adultiptv.net/asian.m3u8
 婬婦,http://live.redtraffic.net/woman.m3u8
 青少年,http://cdn.adultiptv.net/teen.m3u8
-金发,http://cdn.adultiptv.net/blonde.m3u8
+金发,http://live.adultiptv.net/blonde.m3u8
 黑发,http://cdn.adultiptv.net/brunette.m3u8
 绿帽,http://cdn.adultiptv.net/cuckold.m3u8
 拉丁,http://cdn.adultiptv.net/latina.m3u8
@@ -33,18 +33,16 @@ TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.
 大屌,http://cdn.adultiptv.net/bigdick.m3u8
 大奶子,http://cdn.adultiptv.net/bigtits.m3u8
 大屁股,http://cdn.adultiptv.net/bigass.m3u8
-跨种族,http://cdn.adultiptv.net/interracial.m3u8
+跨种族,http://live.adultiptv.net/interracial.m3u8 
 群交,http://cdn.adultiptv.net/gangbang.m3u8
 硬核,http://cdn.adultiptv.net/hardcore.m3u8
 恋物癖,http://cdn.adultiptv.net/fetish.m3u8
-粗鲁,http://cdn.adultiptv.net/rough.m3u8
-汇编,http://cdn.adultiptv.net/compilation.m3u8
-口交,http://cdn.adultiptv.net/blowjob.m3u8
+粗鲁,http://live.adultiptv.net/rough.m3u8
+汇编,http://live.adultiptv.net/compilation.m3u8
+口交,http://live.adultiptv.net/blowjob.m3u8
 女同性恋,http://cdn.adultiptv.net/lesbian.m3u8
-🔞♥️🍌️驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
-Hustler HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30702
-Passie,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13359
-SCT Classic,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13354
+🔞♥️🍌️驚艷臺,http://125.227.210.55:8156/play.ts
+
 💝MTV1,#genre#
 孙露-美人脸,http://em.21dtv.com/songs/60143319.mkv
 孙露-爱你真的好难,http://em.21dtv.com/songs/60143318.mkv
