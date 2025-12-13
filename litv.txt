@@ -1,17 +1,15 @@
 📺TV📺,#genre#
 
 TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
-TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD 4Gtv,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
 中天新闻4Gtv,http://152.32.229.52:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 东森新闻4Gtv,http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true
 tvbs新闻4Gtv,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true
 寰宇新闻4Gtv,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
 非凡新闻4Gtv,http://152.32.229.52:5050/4gtv-4gtv010/index.m3u8?proxy=true
-寰宇闽南4Gtv,http://152.32.229.52:5050/4gtv-4gtv156/index.m3u8?proxy=true
+寰宇台灣4Gtv,http://152.32.229.52:5050/4gtv-4gtv156/index.m3u8?proxy=true
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 国家地理4Gtv,http://152.32.229.52:5050/4gtv-live208/index.m3u8?proxy=true
-動物星球,http://211.23.114.106:9312/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 
 
@@ -41,106 +39,15 @@ Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 🔞♥️🍌️驚艷臺,http://125.227.210.55:8156/play.ts
 
 💝MTV1,#genre#
-孙露-美人脸,http://em.21dtv.com/songs/60143319.mkv
-孙露-爱你真的好难,http://em.21dtv.com/songs/60143318.mkv
-孙露-烟雨年代,http://em.21dtv.com/songs/60143317.mkv
-孙爱群-美江南,http://em.21dtv.com/songs/60143316.mkv
-孙晓磊-爸爸多想唱一首歌给您,http://em.21dtv.com/songs/60143315.mkv
-孙晓磊-晓磊经典串烧(演唱会),http://em.21dtv.com/songs/60143314.mkv
-孙宇豪-多想唱一首歌给你,http://em.21dtv.com/songs/60143313.mkv
-孙嘉梵-花开,http://em.21dtv.com/songs/60143312.mkv
-任妙音-雨中相逢,http://em.21dtv.com/songs/60143126.mkv
-任妙音-玫瑰恋情,http://em.21dtv.com/songs/60143125.mkv
-任妙音-无怨无悔陪你一起老,http://em.21dtv.com/songs/60143124.mkv
-任妙音-忘不了,http://em.21dtv.com/songs/60143123.mkv
-任妙音-如意花,http://em.21dtv.com/songs/60143122.mkv
-任妙音-天在下雨我在想你(演唱会),http://em.21dtv.com/songs/60143121.mkv
-龙梅子-离别的眼泪,http://em.21dtv.com/songs/60145855.mkv
-周笔畅+赵天宇-岁月神偷,http://em.21dtv.com/songs/60144931.mkv
-周笔畅+周震南-TIME ZONE,http://em.21dtv.com/songs/60144930.mkv
-周笔畅+VAVA-RAP STAR,http://em.21dtv.com/songs/60144929.mkv
-周笔畅-神秘的塞班岛,http://em.21dtv.com/songs/60144928.mkv
-周笔畅-七分钟好女孩七分钟坏女孩,http://em.21dtv.com/songs/60144926.mkv
-周笔畅-FASCINATION,http://em.21dtv.com/songs/60144925.mkv
-冷漠+王旭+杜青-在释放,http://em.21dtv.com/songs/60144806.mkv
-冷漠+杨小曼-你不懂,http://em.21dtv.com/songs/60144805.mkv
-冷漠-飞上天空的鱼,http://em.21dtv.com/songs/60144804.mkv
-冷漠-不是所有,http://em.21dtv.com/songs/60144803.mkv
-刀郎-守候在凌晨两点的伤心酒吧,http://em.21dtv.com/songs/60144612.mkv
-凤凰传奇-走天涯,http://em.21dtv.com/songs/60144611.mkv
-冷漠-醉红颜,http://em.21dtv.com/songs/60144610.mkv
-蔡琴-被遗忘的时光,http://em.21dtv.com/songs/60144417.mkv
-蔡琴-月光小夜曲,http://em.21dtv.com/songs/60144415.mkv
-蔡琴-恰似你的温柔,http://em.21dtv.com/songs/60144414.mkv
-蔡琴-张三的歌,http://em.21dtv.com/songs/60144413.mkv
-萨拉萨蒂-流浪者之歌,http://em.21dtv.com/songs/60144412.mkv
-陈瑞-醉后之夜,http://em.21dtv.com/songs/60144328.mkv
-陈瑞-退路,http://em.21dtv.com/songs/60144327.mkv
-陈瑞-让爱结束在最美的时候,http://em.21dtv.com/songs/60144326.mkv
-陈瑞-相伴有你,http://em.21dtv.com/songs/60144325.mkv
-陈瑞-猜心,http://em.21dtv.com/songs/60144324.mkv
-陈瑞-流星泪,http://em.21dtv.com/songs/60144323.mkv
-陈瑞-泪洒爱琴海,http://em.21dtv.com/songs/60144322.mkv
-陈瑞-没有人比你更爱我,http://em.21dtv.com/songs/60144321.mkv
-陈瑞-没有,http://em.21dtv.com/songs/60144320.mkv
-陈瑞-母亲的期待,http://em.21dtv.com/songs/60144319.mkv
-陈瑞-月光下等待,http://em.21dtv.com/songs/60144318.mkv
-陈瑞-曾有一个人,http://em.21dtv.com/songs/60144317.mkv
-陈瑞-抽烟的女人,http://em.21dtv.com/songs/60144316.mkv
-陈瑞-我不再是你最疼爱的人,http://em.21dtv.com/songs/60144315.mkv
-陈瑞-想你总在多年以后,http://em.21dtv.com/songs/60144314.mkv
-陈瑞-情人节的玫瑰,http://em.21dtv.com/songs/60144313.mkv
-陈瑞-恋人泪,http://em.21dtv.com/songs/60144312.mkv
-陈瑞-心中的牵挂,http://em.21dtv.com/songs/60144311.mkv
-陈瑞-尘缘,http://em.21dtv.com/songs/60144310.mkv
-陈瑞-太阳的眼泪太阳雨,http://em.21dtv.com/songs/60144309.mkv
-陈瑞-你是我生命的传奇,http://em.21dtv.com/songs/60144308.mkv
-陈瑞-今夜你会在哪里,http://em.21dtv.com/songs/60144307.mkv
-陈瑞-五百年情缘,http://em.21dtv.com/songs/60144306.mkv
-陈瑞-一个人的情人节,http://em.21dtv.com/songs/60144305.mkv
-孟庭苇-风中有朵雨做的云,http://em.21dtv.com/songs/60143330.mkv
-孟庭苇-野百合也有春天,http://em.21dtv.com/songs/60143329.mkv
-孟庭苇-谁的眼泪在飞,http://em.21dtv.com/songs/60143328.mkv
-孟庭苇-羞答答的玫瑰静悄悄的开,http://em.21dtv.com/songs/60143327.mkv
-孟庭苇-我只在乎你,http://em.21dtv.com/songs/60143326.mkv
-孟庭苇-往事,http://em.21dtv.com/songs/60143325.mkv
-孟小宝-一个转身天涯路太远,http://em.21dtv.com/songs/60143324.mkv
-孟子坤-流着泪说分手,http://em.21dtv.com/songs/60143323.mkv
-孟子坤-泡沫(现场版),http://em.21dtv.com/songs/60143322.mkv
-孟子坤-再也没有(现场版),http://em.21dtv.com/songs/60143321.mkv
-孟子坤-你还要我怎样(现场版),http://em.21dtv.com/songs/60143320.mkv
-
-💝MTV2,#genre#
-没有你陪伴我真的好孤单.冷漠,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjdHE4gUogP7YjwI.mp4
-龙梅子_一段情歌一段伤,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-f6c4gUo8JjbvQY.mp4
-龙梅子_心要痛到什么时候,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0P6c4gUogMuVmwQ.mp4
-龙梅子_我说亲爱的,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0P2c4gUo79D9-gU.mp4
-龙梅子_泪满天,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgovqc4gUokNPR8QU.mp4
-龙梅子_当爱离别时,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyfmc4gUooLyJ2Ac.mp4
-《好听情歌8首》,https://vd4.bdstatic.com/mda-nca4dy51snpz9cnz/sc/cae_h264_delogo/1647144982589585207/mda-nca4dy51snpz9cnz.mp4
-DJ酱爆鱿鱼舞曲版》,https://vd4.bdstatic.com/mda-ncidj3kqg98a7ent/360p/h264_delogo/1647683015061569002/mda-ncidj3kqg98a7ent.mp4
-DJ《拥抱你离去》,https://vd4.bdstatic.com/mda-ncrcfxdipc045rvs/cae_h264_delogo/1648284889423266526/mda-ncrcfxdipc045rvs.mp4
-DJ女人花,https://vd4.bdstatic.com/mda-ncdfurx49ht1fh9w/720p/h264_delogo/1647256721820297861/mda-ncdfurx49ht1fh9w.mp4
-刀郎的西海情歌,https://vd2.bdstatic.com/mda-nctex3rji1v42a0w/sc/cae_h264_delogo/1648464135631429287/mda-nctex3rji1v42a0w.mp4
-伤感DJ串烧为爱流泪,https://vd3.bdstatic.com/mda-nci8jqpzeyqkhdxe/720p/h264_delogo/1647670097763149460/mda-nci8jqpzeyqkhdxe.mp4
-伤心的眼泪,https://vd3.bdstatic.com/mda-ncn2c816zrf6u0im/sc/cae_h264_delogo/1648002300550722369/mda-ncn2c816zrf6u0im.mp4
-《英雄泪》,https://vd3.bdstatic.com/mda-ncnp6tm56ngrxbis/360p/h264_delogo/1648055585617071282/mda-ncnp6tm56ngrxbis.mp4
-大型蹦迪现场,https://vd4.bdstatic.com/mda-ncg44ya2nmih7avs/1080p/cae_h264_delogo/1647487969274086287/mda-ncg44ya2nmih7avs.mp4
-酒吧DJ舞曲1[1920x1080],https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
-酒吧DJ舞曲2[1920x1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 2021《精选5首酒吧DJ舞曲》[1920x1080],https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
-龙飘飘《歌声恋情》[1920x1080],https://vdse.bdstatic.com//552f15ac34dc97bdb3cc7725cd0a0aa4.mp4
 DJ《如果爱还在》[1920x1080],https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
 推荐9首DJ舞曲[1920x1080],https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
 动感DJ《苦了累了听听歌》[1920x1080],https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
 车载必备DJ《殇雪》[1920x1080],https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
 DJ《心在跳情在烧》[1920x1080],https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
-郭镐鸣《野摩托》[1920x1080],https://vd3.bdstatic.com/mda-mekfm7wu6f4rtt99/1080p/cae_h264/1621595318412084671/mda-mekfm7wu6f4rtt99.mp4
 海来阿木《浪子心》DJ沈念版[1920x1080],https://vd3.bdstatic.com/mda-mgr9s5pv0jeqbcm8/1080p/cae_h264/1627298307874491239/mda-mgr9s5pv0jeqbcm8.mp4
 DJ版《三月里的小雨》[1920x1080],https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4
 闽南语歌曲联播,http://mobi.kuwo.cn/tmevideo/tme12155588.mp4
 大立k歌音乐,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 台湾番薯音乐台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?音乐
-朴素妍音乐,http://epg.112114.xyz/douyu/603070
-24H音乐女团,http://epg.112114.xyz/douyu/3870925
 kpop音乐女团,http://epg.112114.xyz/douyu/329667
