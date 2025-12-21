@@ -1,4 +1,4 @@
-📺TV📺,#genre#
+📺TV,#genre#
 
 TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 TVBS HD 4Gtv,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
@@ -12,8 +12,21 @@ tvbs新闻4Gtv,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true
 国家地理4Gtv,http://152.32.229.52:5050/4gtv-live208/index.m3u8?proxy=true
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 
+📺MTV,#genre#
+2021《精选5首酒吧DJ舞曲》[1920x1080],https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
+DJ《如果爱还在》[1920x1080],https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
+推荐9首DJ舞曲[1920x1080],https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
+动感DJ《苦了累了听听歌》[1920x1080],https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
+车载必备DJ《殇雪》[1920x1080],https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
+DJ《心在跳情在烧》[1920x1080],https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
+海来阿木《浪子心》DJ沈念版[1920x1080],https://vd3.bdstatic.com/mda-mgr9s5pv0jeqbcm8/1080p/cae_h264/1627298307874491239/mda-mgr9s5pv0jeqbcm8.mp4
+DJ版《三月里的小雨》[1920x1080],https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4
+闽南语歌曲联播,http://mobi.kuwo.cn/tmevideo/tme12155588.mp4
+大立k歌音乐,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+台湾番薯音乐台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?音乐
+kpop音乐女团,http://epg.112114.xyz/douyu/329667
 
-💝MTV0_q,#genre#
+💝MTV_q,#genre#
 第一视角,http://live.adultiptv.net/pov.m3u8
 熟女,http://live.adultiptv.net/milf.m3u8
 俄罗斯,http://live.adultiptv.net/russian.m3u8
@@ -37,17 +50,3 @@ Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 口交,http://live.adultiptv.net/blowjob.m3u8
 女同性恋,http://live.adultiptv.net/lesbian.m3u8
 🔞♥️🍌️驚艷臺,http://125.227.210.55:8156/play.ts
-
-💝MTV1,#genre#
-2021《精选5首酒吧DJ舞曲》[1920x1080],https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
-DJ《如果爱还在》[1920x1080],https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
-推荐9首DJ舞曲[1920x1080],https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
-动感DJ《苦了累了听听歌》[1920x1080],https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
-车载必备DJ《殇雪》[1920x1080],https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
-DJ《心在跳情在烧》[1920x1080],https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
-海来阿木《浪子心》DJ沈念版[1920x1080],https://vd3.bdstatic.com/mda-mgr9s5pv0jeqbcm8/1080p/cae_h264/1627298307874491239/mda-mgr9s5pv0jeqbcm8.mp4
-DJ版《三月里的小雨》[1920x1080],https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4
-闽南语歌曲联播,http://mobi.kuwo.cn/tmevideo/tme12155588.mp4
-大立k歌音乐,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-台湾番薯音乐台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?音乐
-kpop音乐女团,http://epg.112114.xyz/douyu/329667
