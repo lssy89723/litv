@@ -1,12 +1,13 @@
 📺TV,#genre#
-
-TVBS HD 4Gtv,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
-tvbs新闻4Gtv,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true
-东森新闻4Gtv,http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true
-中天新闻4Gtv,http://152.32.229.52:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-寰宇新闻4Gtv,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
-非凡新闻4Gtv,http://152.32.229.52:5050/4gtv-4gtv010/index.m3u8?proxy=true
-寰宇台灣4Gtv,http://152.32.229.52:5050/4gtv-4gtv156/index.m3u8?proxy=true
+TVBS新聞台HD,http://iptv.4666888.xyz/iptv2A.php?id=43
+東森新聞台HD,http://156.238.248.80/2099.php?id=880
+東森新聞台HD,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+東森新聞台HD,http://165.154.226.214:50007/li-4gtv-4gtv152/index.m3u8?proxy=true
+中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
+寰宇新聞台,http://165.154.226.214:50007/li-litv-longturn14/index.m3u8?proxy=true
+華視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+非凡新闻HD,http://iptv.4666888.xyz/iptv2A.php?id=44
+中視新聞HD,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 国家地理4Gtv,http://152.32.229.52:5050/4gtv-live208/index.m3u8?proxy=true
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
