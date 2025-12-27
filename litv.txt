@@ -1,6 +1,6 @@
 📺TV,#genre#
 TVBS新聞台HD,http://iptv.4666888.xyz/iptv2A.php?id=43
-東森新聞台HD,http://165.154.226.214:50007/li-4gtv-4gtv152/index.m3u8?proxy=true
+東森新聞台HD,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
 寰宇新聞台,http://165.154.226.214:50007/li-litv-longturn14/index.m3u8?proxy=true
 非凡新闻HD,http://iptv.4666888.xyz/iptv2A.php?id=44
