@@ -11,7 +11,7 @@ Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 
 
 
-📺MV🎧,#genre#
+ 🎵MV🎧,#genre#
 2021《精选5首酒吧DJ舞曲》[1920x1080],https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
 DJ《如果爱还在》[1920x1080],https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
 推荐9首DJ舞曲[1920x1080],https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
