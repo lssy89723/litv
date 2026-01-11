@@ -8,7 +8,7 @@ TVBS新聞台HD,http://iptv.4666888.xyz/iptv2A.php?id=43
 中視新聞HD,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
-東森新聞,https://www.litv.tv/channel/watch/4gtv-4gtv152
+https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 
  🎵MV🎧,#genre#
 2021《精选5首酒吧DJ舞曲》[1920x1080],https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
