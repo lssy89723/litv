@@ -8,6 +8,19 @@ TVBS新聞台HD,http://iptv.4666888.xyz/iptv2A.php?id=43
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 
+中天新聞1,http://74.91.26.218:82/live/ztxw.m3u8
+中天新聞2,http://rihou.cc:555/tv/[SZ]中天新闻
+中天新聞3,http://156.238.248.80/2099.php?id=354
+中天新聞4,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
+中天新聞5,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdRUHNEdsH4082zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新聞6,http://rihou.cc:555/tv/[Hk]%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E
+東森新聞台1HD,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/162.ts
+東森新聞台2HD,http://156.238.248.80/2099.php?id=357
+東森新聞台3HD,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+東森新聞台4HD,http://165.154.226.214:50007/li-4gtv-4gtv152/index.m3u8?proxy=true
+東森新聞台5HD,http://156.238.248.80/2099.php?id=363
+TVBS新聞台1HD,http://iptv.4666888.xyz/iptv2A.php?id=43
+TVBS新聞台2HD,http://156.238.248.80/2099.php?id=361
 
 
 
