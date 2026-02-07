@@ -2,6 +2,8 @@
 TVBS新聞台HD,http://iptv.4666888.xyz/iptv2A.php?id=43
 東森新聞台4HD,http://165.154.226.214:50007/li-4gtv-4gtv152/index.m3u8?proxy=true
 中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
+東森新聞台HD,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
 寰宇新聞台,http://165.154.226.214:50007/li-litv-longturn14/index.m3u8?proxy=true
 非凡新闻HD,http://iptv.4666888.xyz/iptv2A.php?id=44
 中視新聞HD,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
