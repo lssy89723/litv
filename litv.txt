@@ -1,15 +1,38 @@
 📺TV📺,#genre#
+
+TVBS HD,http://pixman.passwdwork.us.ci/smt/tvbs/
+TVBS News 新聞台,http://pixman.passwdwork.us.ci/smt/tvbs_n/
+東森新聞 ETTV News,http://pixman.passwdwork.us.ci/smt/ettvnews/
+寰宇新聞台,http://pixman.passwdwork.us.ci/smt/huanyuxinwen_twn/
+中天新聞 CTI News,http://pixman.passwdwork.us.ci/smt/ctinews/
+非凡新聞台,http://pixman.passwdwork.us.ci/smt/feifannews_twn/
+東森財經新聞 ETTV Business,http://pixman.passwdwork.us.ci/smt/ettvcaijing_twn/
 TVBS新聞台HD,http://iptv.4666888.xyz/iptv2A.php?id=43
 東森新聞台4HD,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
-中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
-東森新聞台HD,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
-中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
-寰宇新聞台,http://165.154.226.214:50007/li-litv-longturn14/index.m3u8?proxy=true
-非凡新闻HD,http://iptv.4666888.xyz/iptv2A.php?id=44
-中視新聞HD,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
-東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+台視新聞台 TTV News,http://pixman.passwdwork.us.ci/smt/ttvnews_twn/
 
+中視新聞台,http://pixman.passwdwork.us.ci/smt/zhongshinews_twn/
+年代新闻,http://pixman.passwdwork.us.ci/smt/niandainews_twn/
+台视 TTV HD,http://pixman.passwdwork.us.ci/smt/ttv_taiwan/
+中视 HD,http://pixman.passwdwork.us.ci/smt/zhongshihd_twn/
+民视 HD,http://pixman.passwdwork.us.ci/smt/ftvhd_taiwan/
+华视 CTS HD,http://pixman.passwdwork.us.ci/smt/ctshd_twn/
+公视 CTV,http://pixman.passwdwork.us.ci/smt/ctv18_twn/
+HBO_HD,http://pixman.passwdwork.us.ci/smt/hbohd_twn/
+HBO_HITS,http://pixman.passwdwork.us.ci/smt/hbohits_twn/
+HBO Signature Taiwan,http://pixman.passwdwork.us.ci/smt/hbosignature_twn/
+Hollywood Movies,http://pixman.passwdwork.us.ci/smt/hollywoodmovies_twn/
+东森综合 ETTV Metro,http://pixman.passwdwork.us.ci/smt/ettvzhonghe/
+东森戏剧 ETTV Drama,http://pixman.passwdwork.us.ci/smt/ettvdrama/
+
+亚洲美食,http://pixman.passwdwork.us.ci/smt/afc_twn/
+亚洲旅游 TLC Asia,http://pixman.passwdwork.us.ci/smt/tlc_twn/
+MTV Live,http://pixman.passwdwork.us.ci/smt/mtvhd_twn/
+EYETV 旅游,http://pixman.passwdwork.us.ci/smt/eyetvtravel_twn/
+Elta体育1台,http://pixman.passwdwork.us.ci/smt/eltasport1_twn/
+Elta體育2台,http://pixman.passwdwork.us.ci/smt/eltasport2_twn/
+Elta體育3台,http://pixman.passwdwork.us.ci/smt/eltasport3_twn/
+探索频道,http://pixman.passwdwork.us.ci/smt/discoverych_twn/
 
  🎵MV🎧,#genre#
 2021《精选5首酒吧DJ舞曲》[1920x1080],https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
