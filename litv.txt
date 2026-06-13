@@ -22,12 +22,11 @@ TVBS新聞5,http://211.23.95.147:18881/live/55_h265.ts
 TVBS1,http://211.23.95.147:18881/live/56_h265.ts
 TVBS2,http://125.227.210.55:3048/VideoInput/play.ts
 TVBS3,http://kaniptv.com/xz/xz_277f8e103a/wwkds.php?id=tvbs
-東森新聞1,http://211.72.174.95:8138/0.ts
-東森新聞2,http://125.227.210.55:4046/VideoInput/play.ts
+東森新聞1,http://125.227.210.55:4046/VideoInput/play.ts
+東森新聞2,http://211.23.95.147:18881/live/51_h265.ts
 東森新聞3,http://kaniptv.com/xz/xz_277f8e103a/wwkds.php?id=dsxw
 東森新聞4,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
 東森新聞5,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-東森新聞6,http://211.23.95.147:18881/live/51_h265.ts
 東森財經新聞1,http://211.23.95.147:18881/live/57_h265.ts
 東森財經新聞2,http://125.227.210.55:4051/VideoInput/play.ts
 東森財經新聞3,http://kaniptv.com/xz/xz_277f8e103a/wwkds.php?id=dscjxw
