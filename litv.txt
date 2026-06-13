@@ -15,16 +15,14 @@ CTS華視新聞資訊,http://220.135.241.47:8319/0.ts
 民視1,http://211.72.174.95:8115/0.ts
 台視1,http://211.72.174.95:8112/0.ts
 TVBS新聞1,http://211.23.95.147:18881/live/55_h265.ts
-TVBS新聞2,http://125.227.210.55:3046/VideoInput/play.ts
-TVBS新聞3,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
-TVBS新聞4,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
-TVBS1,http://211.23.95.147:18881/live/56_h265.ts
+TVBS新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+TVBS新聞3,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+TVBS,http://211.23.95.147:18881/live/56_h265.ts
 東森新聞1,http://211.23.95.147:18881/live/51_h265.ts
 東森新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
 非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
-中天新聞1,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
-中天新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
 
 壹新聞,http://211.23.95.147:18881/live/49_h265.ts
