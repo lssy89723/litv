@@ -19,14 +19,9 @@ TVBS新聞2,http://125.227.210.55:3046/VideoInput/play.ts
 TVBS新聞3,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 TVBS新聞4,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 TVBS1,http://211.23.95.147:18881/live/56_h265.ts
-TVBS2,http://125.227.210.55:3048/VideoInput/play.ts
-
-東森新聞1,http://125.227.210.55:4046/VideoInput/play.ts
-東森新聞2,http://211.23.95.147:18881/live/51_h265.ts
-東森新聞4,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
-東森新聞5,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-東森財經新聞1,http://211.23.95.147:18881/live/57_h265.ts
-東森財經新聞2,http://125.227.210.55:4051/VideoInput/play.ts
+東森新聞1,http://211.23.95.147:18881/live/51_h265.ts
+東森新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
 非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
 中天新聞1,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
