@@ -14,20 +14,12 @@ CTS華視新聞資訊,http://220.135.241.47:8319/0.ts
 華視1,http://220.135.241.47:8317/0.ts
 民視1,http://220.135.241.47:8308/0.ts
 公視1,http://211.72.174.95:8116/0.ts
-TVBS新聞1,http://211.23.95.147:18881/live/55_h265.ts
-TVBS新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
-TVBS新聞3,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
-TVBS,http://211.23.95.147:18881/live/56_h265.ts
-東森新聞1,http://211.23.95.147:18881/live/51_h265.ts
-東森新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
-非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
+TVBS新聞1,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+TVBS新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
-壹新聞,http://211.23.95.147:18881/live/49_h265.ts
-年代新聞,http://211.23.95.147:18881/live/50_h265.ts
 
-TVBS新聞台HD,http://iptv.4666888.xyz/iptv2A.php?id=43
 
  🎵MV🎧,#genre#
 2021《精选5首酒吧DJ舞曲》[1920x1080],https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
