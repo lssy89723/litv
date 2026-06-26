@@ -9,17 +9,17 @@ CTS華視新聞資訊,http://220.135.241.47:8319/0.ts
 民視新聞台,http://220.135.241.47:8310/0.ts
 公視,http://220.135.241.47:8305/0.ts
 
-中視1,http://220.135.241.47:8301/0.ts
-台視1,http://211.72.174.95:8112/0.ts
-華視1,http://220.135.241.47:8317/0.ts
-民視1,http://220.135.241.47:8308/0.ts
-公視1,http://211.72.174.95:8116/0.ts
+
 TVBS新聞1,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 TVBS新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
-
+中視1,http://220.135.241.47:8301/0.ts
+台視1,http://211.72.174.95:8112/0.ts
+華視1,http://220.135.241.47:8317/0.ts
+民視1,http://220.135.241.47:8308/0.ts
+公視1,http://211.72.174.95:8116/0.ts
 
  🎵MV🎧,#genre#
 2021《精选5首酒吧DJ舞曲》[1920x1080],https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
