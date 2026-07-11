@@ -12,7 +12,8 @@ CTS華視新聞資訊,http://220.135.241.47:8319/0.ts
 
 TVBS新聞1,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 TVBS新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
-東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+EBC東森新闻HD,http://125.227.210.55:4046/VideoInput/play.ts
+EBC東森LIVE,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
 中視1,http://220.135.241.47:8301/0.ts
