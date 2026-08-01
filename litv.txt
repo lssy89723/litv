@@ -3,7 +3,7 @@ TVBS新聞1,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 TVBS新聞2,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 EBC東森新闻HD,http://125.227.210.55:4046/VideoInput/play.ts
 EBC東森LIVE,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+中天新聞,https://dfe3-6a12-2f81-6b56.kylintv.tv/live/cti_iphone.m3u8
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
 
 中視,http://211.72.174.95:8113/0.ts
