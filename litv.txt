@@ -9,8 +9,6 @@ CCTV10科教,http://173.208.234.146/live/cctv10.m3u8
 
 
 東森新聞,http://211.72.174.95:8138/0.ts
-TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
-非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
 非凡新聞,http://125.227.210.55:1086/VideoInput/play.ts
 TVBS新聞,http://125.227.210.55:3046/VideoInput/play.ts
 TVBS,http://125.227.210.55:3048/VideoInput/play.ts
@@ -18,17 +16,6 @@ TVBS,http://125.227.210.55:3048/VideoInput/play.ts
 東森新聞,http://125.227.210.55:4046/VideoInput/play.ts
 東森財經新聞,http://125.227.210.55:4051/VideoInput/play.ts
 探索亞洲,http://125.227.210.55:8154/VideoInput/play.ts
-東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
-中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
-東森新聞台,http://excessive-ros-iptvtw-07fb45c3.koyeb.app/caonima?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
-TVBS新聞,http://excessive-ros-iptvtw-07fb45c3.koyeb.app/caonima?id=TVBS%E6%96%B0%E8%81%9E
-東森財經新聞台,http://excessive-ros-iptvtw-07fb45c3.koyeb.app/caonima?id=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
-寰宇新聞台,http://excessive-ros-iptvtw-07fb45c3.koyeb.app/caonima?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
-TVBS,http://excessive-ros-iptvtw-07fb45c3.koyeb.app/caonima?id=TVBS
 東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
 東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
@@ -137,3 +124,26 @@ Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 口交,http://live.adultiptv.net/blowjob.m3u8
 女同性恋,http://live.adultiptv.net/lesbian.m3u8
 🔞♥️🍌️
+彩虹电影,http://srteamhls.gotvsports.com:41111/w8chslnwkcidbh3r/index.m3u8
+彩虹E,http://srteamhls.gotvsports.com:41111/f35jovi7msk6dd4p/index.m3u8
+彩虹K,http://srteamhls.gotvsports.com:41111/gk1lhs34k93w0egd/index.m3u8
+松1,http://srteamhls.gotvsports.com:41111/wryqzmqlxxmi1zs2/index.m3u8
+松2,http://srteamhls.gotvsports.com:41111/5bllcktdn92dudy6/index.m3u8
+松3,http://srteamhls.gotvsports.com:41111/nzz5mti2l46gknhp/index.m3u8
+极限电影台,http://srteamhls.gotvsports.com:41111/s0doso0ydxe3yk2s/index.m3u8
+潘多拉完美,http://srteamhls.gotvsports.com:41111/04v9iycrpkoelo1b/index.m3u8
+潘多拉粉红,http://srteamhls.gotvsports.com:41111/t08gdnfdy3rycim0/index.m3u8
+乐活频道,http://srteamhls.gotvsports.com:41111/i0a2mditbdzv0h4e/index.m3u8
+HOT,http://srteamhls.gotvsports.com:41111/krxh0hci5hfbsq7o/index.m3u8
+香蕉台,http://srteamhls.gotvsports.com:41111/o1um0allc3pkwbae/index.m3u8
+happy,http://srteamhls.gotvsports.com:41111/ynmiv1i5as4k1oue/index.m3u8
+Bein1 HD French,http://srteamhls.gotvsports.com:41111/c0jdyx9djdhdwdrp/index.m3u8
+Bein2HD French,http://srteamhls.gotvsports.com:41111/ocg7nws1i9d4ewj2/index.m3u8
+Bein3HD French,http://srteamhls.gotvsports.com:41111/g7flikl10jqzhj9h/index.m3u8
+Bein4HD French,http://srteamhls.gotvsports.com:41111/b8rm0757j1qikdlh/index.m3u8
+Bein5HD French,http://srteamhls.gotvsports.com:41111/z0betoemh3hwxzg3/index.m3u8
+Bein6 HD French,http://srteamhls.gotvsports.com:41111/srzgl4gf3oj8l9ir/index.m3u8
+Bein7 HD French,http://srteamhls.gotvsports.com:41111/aaeo3rgjxvd23vl0/index.m3u8
+Bein8 HD French,http://srteamhls.gotvsports.com:41111/n7e0u99l1xackrt9/index.m3u8
+Bein9 HD French,http://srteamhls.gotvsports.com:41111/9w5sshzpdlruhz3r/index.m3u8
+Bein10HD French,http://srteamhls.gotvsports.com:41111/n00xq9m74p19zyn0/index.m3u8
