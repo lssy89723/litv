@@ -77,5 +77,3 @@ HOT,http://srteamhls.gotvsports.com:41111/krxh0hci5hfbsq7o/index.m3u8
 香蕉台,http://srteamhls.gotvsports.com:41111/o1um0allc3pkwbae/index.m3u8
 happy,http://srteamhls.gotvsports.com:41111/ynmiv1i5as4k1oue/index.m3u8
 
-Bein9 HD French,http://srteamhls.gotvsports.com:41111/9w5sshzpdlruhz3r/index.m3u8
-Bein10HD French,http://srteamhls.gotvsports.com:41111/n00xq9m74p19zyn0/index.m3u8
